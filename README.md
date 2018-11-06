@@ -46,7 +46,7 @@ https://www.coinbeagle.com/news/
 * CoinLoop
 https://coinloop.io/
 
-## Reddit For Aggregated News and Off-topic
+### Reddit For Aggregated News and Off-topic
 
 * /r/Bitcoin
 https://www.reddit.com/r/Bitcoin
@@ -66,7 +66,7 @@ https://www.reddit.com/r/btc/
 * /r/CryptoCurrency/
 https://www.reddit.com/r/CryptoCurrency/
 
-## 4Chan For Aggregated News and Off-topic
+### 4Chan For Aggregated News and Off-topic
 
 * /biz
 http://boards.4chan.org/biz/
@@ -129,5 +129,37 @@ https://www.cnbc.com/cryptocurrency/
 
 * Forbes
 https://www.forbes.com/crypto-blockchain
+
+## Valuation and Ranking Sites
+
+* Coingecko
+https://www.coingecko.com
+
+* CryptoCompare 
+https://www.cryptocompare.com/
+
+* Coinranking
+https://coinranking.com/
+
+* Coinmarketcap
+https://coinmarketcap.com
+
+* CoinCap
+https://coincap.io/
+
+* LiveCoinWatch
+https://www.livecoinwatch.com/
+
+* CoinLib
+https://coinlib.io/
+
+* Coincall
+https://coincall.io/
+
+* World Coin Index
+https://www.worldcoinindex.com/
+
+* Coirrency
+https://www.coirrency.com/features/dashboard
 
 
