@@ -49,6 +49,15 @@ https://coinloop.io/
 * Coins.live
 https://coins.live/news/
 
+* Bitmakler
+https://bitmakler.net/
+
+* Coinhooked
+https://coinhooked.com/
+
+* Bitcoinagile
+http://bitcoinagile.com/default
+
 ### --- Reddit For Aggregated News and Off-topic
 
 * /r/Bitcoin
@@ -142,6 +151,9 @@ https://coinidol.com/
 * Crypto News Review
 https://cryptonewsreview.com
 
+* Eth News
+https://www.ethnews.com/
+
 ## Valuation and Ranking Sites
 
 * Coingecko
@@ -190,3 +202,37 @@ http://data.bitcoinity.org
 
 * Crypto Data Download
 https://www.cryptodatadownload.com/
+
+## Coin Events & Calendar Sites
+
+* Coinmarketcal
+https://coinmarketcal.com/
+
+* Coins Calendar
+https://www.coinscalendar.com/
+
+* cryptocalendar.pro
+https://cryptocalendar.pro/
+
+* Coinschedule
+https://www.coinschedule.com/
+
+* Coindar
+https://coindar.org/
+
+* Coincalendar.info
+http://www.coincalendar.info/
+
+* Coinmarketcap Events
+https://coinmarketcap.com/events/
+
+* Coincalendar.cc
+https://www.coincalendar.cc/
+
+* Cryptoslate Events
+https://cryptoslate.com/events/
+
+## Live Price Watcher Sites
+
+* 
+https://cryptowat.ch/
