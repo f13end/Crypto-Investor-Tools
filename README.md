@@ -2,7 +2,7 @@
 <img width="50%" src="img/draft.png">
 
 
-## Haber Toplayıcıları
+## News Aggregators
 
 * Cryptopanic
 https://cryptopanic.com/
@@ -46,8 +46,85 @@ https://www.coinbeagle.com/news/
 * CoinLoop
 https://coinloop.io/
 
+## Reddit For Aggregated News and Off-topic
 
-## Haber Siteleri
+* /r/Bitcoin
+https://www.reddit.com/r/Bitcoin
+
+* /r/Ethereum
+https://www.reddit.com/r/Ethereum
+
+* /r/ethtrader
+https://www.reddit.com/r/ethtrader/
+
+* /r/Ripple
+https://www.reddit.com/r/Ripple
+
+* /r/btc
+https://www.reddit.com/r/btc/
+
+* /r/CryptoCurrency/
+https://www.reddit.com/r/CryptoCurrency/
+
+## 4Chan For Aggregated News and Off-topic
+
+* /biz
+http://boards.4chan.org/biz/
+
+## News Sites
 
 * Coindesk
 https://www.coindesk.com/
+
+* CoinTelegraph
+https://cointelegraph.com/
+
+* Bitcoin.com
+http://news.bitcoin.com/
+
+* Cryptovest
+https://cryptovest.com/
+
+* CCN
+http://ccn.com/
+
+* Hacked
+https://hacked.com/
+
+* Bitcoinist
+http://bitcoinist.com/
+
+* Blockonomi
+http://blockonomi.com/
+
+* Cryptoslate
+http://cryptoslate.com/
+
+* NewsBTC
+http://newsbtc.com/
+
+* Invest In Blockchain
+https://investinblockchain.com/
+
+* Bitcoin Magazine
+https://bitcoinmagazine.com/
+
+* CoinSpeaker
+http://www.coinspeaker.com/
+
+* Cryptovest
+https://cryptovest.com/
+
+* Blokt
+https://blokt.com
+
+* Nulltx
+https://nulltx.com/
+
+* CNBC
+https://www.cnbc.com/cryptocurrency/
+
+* Forbes
+https://www.forbes.com/crypto-blockchain
+
+
