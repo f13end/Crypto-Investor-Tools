@@ -3,9 +3,7 @@
 <img width="50%" src="img/draft.png">
 
 
-![CRAN](https://img.shields.io/cran/l/devtools.svg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social)](https://twitter.com/coinciyiz)
-[![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
+![CRAN](https://img.shields.io/cran/l/devtools.svg)[![GitHub issues](https://img.shields.io/github/issues/f13end/Crypto-Investor-Tools.svg)](https://github.com/f13end/Crypto-Investor-Tools/issues)[![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
 
 **A collection of awesome lists for cryptocurrency traders, investors and researchers.**
 
@@ -377,4 +375,6 @@ Please have a look at [contributing](Contributing.md) page.
 
 # License
 
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
