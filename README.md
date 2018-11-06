@@ -3,7 +3,8 @@
 <img width="50%" src="img/draft.png">
 
 
-![CRAN](https://img.shields.io/cran/l/devtools.svg)[![GitHub issues](https://img.shields.io/github/issues/f13end/Crypto-Investor-Tools.svg)](https://github.com/f13end/Crypto-Investor-Tools/issues)[![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
+
+[![GitHub license](https://img.shields.io/github/license/f13end/Crypto-Investor-Tools.svg)](https://github.com/f13end/Crypto-Investor-Tools/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/f13end/Crypto-Investor-Tools.svg)](https://github.com/f13end/Crypto-Investor-Tools/issues) [![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
 
 **A collection of awesome lists for cryptocurrency traders, investors and researchers.**
 
@@ -310,7 +311,7 @@ http://www.topix.com/forum/economics/bitcoin
 * Altcointalks
 http://www.altcoinstalks.com/
 
-## ICO / Projets Review Sites
+## ICO / Projects Review Sites
 
 * TokenMarket
 https://tokenmarket.net/
