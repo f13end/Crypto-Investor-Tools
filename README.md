@@ -373,6 +373,7 @@ https://t.me/WallMonitor
 # Contributions
 
 Please have a look at [contributing](Contributing.md) page.
+If you have any question about this opinionated list, do not hesitate to contact me [@coinciyiz](https://twitter.com/coinciyiz) on Twitter or open an issue on GitHub.
 
 # License
 
