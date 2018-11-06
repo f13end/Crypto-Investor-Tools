@@ -239,3 +239,25 @@ https://cryptowat.ch/
 
 * Bitcoin Wisdom
 https://bitcoinwisdom.com/
+
+*
+
+## Charts, Quotes and Trade Idea Sites
+
+* Tradingview
+https://www.tradingview.com/
+
+* Investing
+https://www.investing.com/
+
+* Gocharting
+https://gocharting.com/
+
+* StockCharts
+http://www.freestockcharts.com/
+
+* Finviz
+https://finviz.com/
+
+* Coinigy
+https://www.coinigy.com/
