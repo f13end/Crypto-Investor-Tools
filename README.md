@@ -46,7 +46,7 @@ https://www.coinbeagle.com/news/
 * CoinLoop
 https://coinloop.io/
 
-### ---Reddit For Aggregated News and Off-topic
+### --- Reddit For Aggregated News and Off-topic
 
 * /r/Bitcoin
 https://www.reddit.com/r/Bitcoin
@@ -66,7 +66,7 @@ https://www.reddit.com/r/btc/
 * /r/CryptoCurrency/
 https://www.reddit.com/r/CryptoCurrency/
 
-### ---4Chan For Aggregated News and Off-topic
+### --- 4Chan For Aggregated News and Off-topic
 
 * /biz
 http://boards.4chan.org/biz/
