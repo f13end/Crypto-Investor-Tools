@@ -97,6 +97,12 @@ https://cointelegraph.com/
 * Bitcoin.com
 http://news.bitcoin.com/
 
+* BraveNewCoin
+https://bravenewcoin.com/home
+
+* Bitcoin Exchange Guide
+https://bitcoinexchangeguide.com/
+
 * Cryptovest
 https://cryptovest.com/
 
@@ -108,6 +114,9 @@ https://hacked.com/
 
 * Bitcoinist
 http://bitcoinist.com/
+
+* Cryptopotato
+https://cryptopotato.com/
 
 * Blockonomi
 http://blockonomi.com/
@@ -192,6 +201,9 @@ https://99bitcoins.com/
 * Altcoins.racing
 https://altcoins.racing/
 
+* MyToken
+https://www.mytoken.io/
+
 ## Cryptocurrency Data & Info Sites
 
 * Vectorspace
@@ -240,7 +252,8 @@ https://cryptowat.ch/
 * Bitcoin Wisdom
 https://bitcoinwisdom.com/
 
-*
+* BTC.Amfeed
+http://btc.amfeed.com/
 
 ## Charts, Quotes and Trade Idea Sites
 
@@ -261,3 +274,87 @@ https://finviz.com/
 
 * Coinigy
 https://www.coinigy.com/
+
+## Crypto Forums
+
+* Bitcointalk
+https://bitcointalk.org/
+
+* CC Forums
+https://www.cryptocompare.com/forum/#/coin
+
+* Master of Cryptos
+https://mastersofcrypto.com/forum/
+
+* StackExchange
+https://bitcoin.stackexchange.com/
+
+* Blockchain Forums
+https://blockchainforums.info
+
+* Cryptocurrency Talk
+https://cryptocurrencytalk.com/
+
+* Topix
+http://www.topix.com/forum/economics/bitcoin
+
+* Altcointalks
+http://www.altcoinstalks.com/
+
+## ICO / Projets Review Sites
+
+* TokenMarket
+https://tokenmarket.net/
+
+* ICO Holder
+https://icoholder.com/
+
+* ICO Rating
+https://icorating.com/
+
+* ICObench
+https://icobench.com/
+
+* Cryptobriefing
+https://cryptobriefing.com/ico-reviews/
+
+* ICO Hot List
+https://www.icohotlist.com/
+
+* CryptoRated
+https://cryptorated.com/
+
+* ICOReview
+https://icoreview.site/
+
+* TokenTops
+https://tokentops.com/
+
+* ICOCrunch
+https://icocrunch.io/
+
+* ICODOG
+https://icodog.io/
+
+* TopICOList
+https://topicolist.com/
+
+* ICO Market Data
+https://www.icomarketdata.com/earlybird
+
+* Visionary.life
+https://listing.visionary.life/
+
+# Telegram Channel
+
+* Coin Sniper
+https://t.me/CoinSniper
+
+* Crypto Alerts
+https://t.me/CryptoAlerts
+
+* Whale Sniper
+https://t.me/Whalesniper
+
+* Smart Wall Monitor
+https://t.me/WallMonitor
