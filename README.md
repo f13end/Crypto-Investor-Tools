@@ -46,6 +46,9 @@ https://www.coinbeagle.com/news/
 * CoinLoop
 https://coinloop.io/
 
+* Coins.live
+https://coins.live/news/
+
 ### --- Reddit For Aggregated News and Off-topic
 
 * /r/Bitcoin
@@ -130,6 +133,15 @@ https://www.cnbc.com/cryptocurrency/
 * Forbes
 https://www.forbes.com/crypto-blockchain
 
+* Cryptonews
+https://cryptonews.com/
+
+* Coinidol
+https://coinidol.com/
+
+* Crypto News Review
+https://cryptonewsreview.com
+
 ## Valuation and Ranking Sites
 
 * Coingecko
@@ -162,4 +174,19 @@ https://www.worldcoinindex.com/
 * Coirrency
 https://www.coirrency.com/features/dashboard
 
+* 99Bitcoins
+https://99bitcoins.com/
 
+* Altcoins.racing
+https://altcoins.racing/
+
+## Cryptocurrency Data & Info Sites
+
+* Vectorspace
+https://vectorspace.ai/smart_token_baskets/smart-token-basket.html
+
+* Bitcoinity
+http://data.bitcoinity.org
+
+* Crypto Data Download
+https://www.cryptodatadownload.com/
