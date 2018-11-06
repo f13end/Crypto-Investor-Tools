@@ -1,4 +1,4 @@
-# Cryptocurrency Investor Tools
+# [Cryptocurrency Investor Tools](https://github.com/f13end/Crypto-Investor-Tools) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=CryptoCurrency Investor Tools - a collection of awesome lists for cryptocurrency trader and investor by @coinciyiz https://github.com/f13end/Crypto-Investor-Tools #bitcoin #crypto)
 <img width="50%" src="img/draft.png">
 
 
@@ -8,7 +8,7 @@
 
 **A collection of awesome lists for cryptocurrency traders, investors and researchers.**
 
-Your [contributions](contributing.md) are always welcome !
+Your [contributions](Contributing.md) are always welcome !
 
 
 # Cryptocurrency Investor Tools
