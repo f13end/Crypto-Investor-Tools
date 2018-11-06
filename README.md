@@ -2,8 +2,9 @@
 <img width="50%" src="img/draft.png">
 
 
-![CRAN](https://img.shields.io/cran/l/devtools.svg) ![Read the Docs](https://img.shields.io/readthedocs/:package.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/badges/shields.svg) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social)] [![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
+![CRAN](https://img.shields.io/cran/l/devtools.svg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social)](https://twitter.com/coinciyiz)
+[![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
 
 
 
