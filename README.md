@@ -1,5 +1,5 @@
 # Cryptocurrency Investor Tools
-[img/draft.png|alt=coinciyiz]
+<img align="left" src="img/draft.png">
 
 ## Haber Toplayıcıları
 
