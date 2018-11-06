@@ -71,6 +71,9 @@ https://www.reddit.com/r/CryptoCurrency/
 * /biz
 http://boards.4chan.org/biz/
 
+* /biz - Archieve
+http://boards.4chan.org/biz/archive
+
 ## News Sites
 
 * Coindesk
