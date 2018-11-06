@@ -6,9 +6,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social)](https://twitter.com/coinciyiz)
 [![Discord](https://img.shields.io/discord/432685901596852224.svg)](https://discord.gg/tSg4ABF)
 
+**A collection of awesome lists for cryptocurrency traders, investors and researchers.**
+
+Your [contributions](contributing.md) are always welcome !
 
 
-
+# Cryptocurrency Investor Tools
 ## News Aggregators
 
 * Cryptopanic
@@ -352,7 +355,7 @@ https://www.icomarketdata.com/earlybird
 * Visionary.life
 https://listing.visionary.life/
 
-# Telegram Channel
+## Telegram Channel
 
 * Coin Sniper
 https://t.me/CoinSniper
@@ -365,3 +368,12 @@ https://t.me/Whalesniper
 
 * Smart Wall Monitor
 https://t.me/WallMonitor
+
+
+# Contributions
+
+Please have a look at [contributing](Contributing.md) page.
+
+# License
+
+
