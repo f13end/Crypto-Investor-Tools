@@ -1,7 +1,7 @@
 # Cryptocurrency Investor Tools
 <img width="50%" src="img/draft.png">
 
-⋅⋅⋅
+
 ## Haber Toplayıcıları
 
 * Cryptopanic
