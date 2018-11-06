@@ -1,5 +1,5 @@
 # Cryptocurrency Investor Pack
-[[img/draft.png|alt=coinciyiz]]
+[img/draft.png|alt=coinciyiz]
 
 ## Haber Toplayıcıları
 
