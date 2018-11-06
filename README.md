@@ -234,5 +234,8 @@ https://cryptoslate.com/events/
 
 ## Live Price Watcher Sites
 
-* 
+* Cryptowatch
 https://cryptowat.ch/
+
+* Bitcoin Wisdom
+https://bitcoinwisdom.com/
