@@ -1,4 +1,4 @@
-# Cryptocurrency Investor Pack
+# Cryptocurrency Investor Tools
 [img/draft.png|alt=coinciyiz]
 
 ## Haber Toplayıcıları
