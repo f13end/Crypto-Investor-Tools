@@ -2,7 +2,7 @@
 
 Please follow the instructions below to make a contribution.
 
-This resource was made by the developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
+This resource was made by the developers and investors alike! We appreciate and recognize all [contributors](#contributors).
 
 ## Table of Content
 
