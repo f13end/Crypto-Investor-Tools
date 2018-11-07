@@ -88,6 +88,9 @@ https://www.reddit.com/r/btc/
 * /r/CryptoCurrency/
 https://www.reddit.com/r/CryptoCurrency/
 
+* /r/CryptoMarkets/
+https://www.reddit.com/r/CryptoMarkets/
+
 ### --- 4Chan For Aggregated News and Off-topic
 
 * /biz
