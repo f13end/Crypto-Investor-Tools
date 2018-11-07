@@ -98,121 +98,124 @@ http://boards.4chan.org/biz/archive
 
 ## News Sites
 
-* Coindesk
+* **Coindesk** CoinDesk provides news and analysis on the trends, changes, technologies, companies, and people in the Bitcoin and digital currency world.
 https://www.coindesk.com/
 
-* CoinTelegraph
+* **CoinTelegraph** Bitcoin & Ethereum news, analysis and review about technology, finance, blockchain and markets - cryptocurrency news.
 https://cointelegraph.com/
 
-* Bitcoin.com
+* **Bitcoin.com** Get started with Bitcoin: find a wallet, buy bitcoin, shop with bitcoin, read bitcoin news, and get involved on the forum.
 http://news.bitcoin.com/
 
-* BraveNewCoin
+* **BraveNewCoin** Brave New Coin (BNC) is a Blockchain and Crypto Asset Market Data company. We publish technical analysis and research, used by key decision makers.
 https://bravenewcoin.com/home
 
 * Bitcoin Exchange Guide
 https://bitcoinexchangeguide.com/
 
-* Cryptovest
+* **Cryptovest** Cryptovest - World's largest cryptocurrency and ICO media publisher offers the latest news, reviews and knowledge centre.
 https://cryptovest.com/
 
-* CCN
+* **CCN** At CCN we provide you with the latest cryptocurrency news, including cryptocurrencies like Ethereum, Bitcoin, EOS, NEO, Litecoin, and major ICOs.
 http://ccn.com/
 
-* Hacked
+* **Hacked** Exclusive analysis of cryptocurrencies like Bitcoin, Ethereum, Litecoin, including rating of Initial Coin Offerings (ICO), trade recommendations, Stocks, Forex, Tutorials, and market recaps.
 https://hacked.com/
 
-* Bitcoinist
+* **Bitcoinist** Bitcoinist is a Bitcoin news portal providing breaking news about decentralized digital money, blockchain technology and Fintech.
 http://bitcoinist.com/
 
-* Cryptopotato
+* **Cryptopotato** Find resources for anything related to the Cryptocurrencies world - Bitcoins and Altcoins. Crypto Trading 'How To', Index and Initial Coin Offerings (ICOs)
 https://cryptopotato.com/
 
-* Blockonomi
+* **Blockonomi** Cryptocurrency News & Your Guide to the Blockchain Economy.
 http://blockonomi.com/
 
-* Cryptoslate
+* **Cryptoslate** CryptoSlate is a popular destination for blockchain researchers — featuring cryptocurrency news, coin rankings, a product database and blockchain events.
 http://cryptoslate.com/
 
-* NewsBTC
+* **NewsBTC** NewsBTC is a news service that covers bitcoin news, technical analysis & forecasts for bitcoin and other altcoins.
 http://newsbtc.com/
 
-* Invest In Blockchain
+* **Invest In Blockchain** Invest In Blockchain is your source for the latest crypto news, investment opinion, and informative, engaging content on blockchain education!
 https://investinblockchain.com/
 
-* Bitcoin Magazine
+* **Bitcoin Magazine** Founded in 2011, Bitcoin Magazine is the oldest and most trusted source of news, insight, reviews, guides, and price analysis on bitcoin, ethereum, blockchain technology, cryptocurrencies, the darkweb, and other decentralized technologies.
 https://bitcoinmagazine.com/
 
-* CoinSpeaker
+* **CoinSpeaker** The latest news about Bitcoin and altcoins, Blockchain Technology, ICO, FinTech, Internet of Things.
 http://www.coinspeaker.com/
 
-* Cryptovest
+* **Cryptovest** World's largest cryptocurrency and ICO media publisher offers the latest news, reviews and knowledge centre.
 https://cryptovest.com/
 
-* Blokt
+* **Blokt** Blokt is a leading blockchain, Bitcoin, Ethereum and cryptocurrency resource. We provide the latest in breaking crypto news, cryptocurrency guides, ICO analysis, price analysis, security tips and industry tools.
 https://blokt.com
 
 * Nulltx
 https://nulltx.com/
 
-* CNBC
+* **CNBC** Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.
 https://www.cnbc.com/cryptocurrency/
 
-* Forbes
+* **Forbes** Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.
 https://www.forbes.com/crypto-blockchain
 
-* Cryptonews
+* **Cryptonews** Cryptocurrency News feed is a one stop shop destination on all the latest news in crypto. Cryptocurrency News today play an important role in the awareness and expansion of of the crypto industry, so don’t miss out on all the buzz and stay in the known on all the Latest Cryptocurrency News.
 https://cryptonews.com/
 
-* Coinidol
+* **Coinidol** Bitcoin, Blockchain, Cryptocurrency and Techlonogy News.
 https://coinidol.com/
 
-* Crypto News Review
+* **Crypto News Review** Independent news and views for the blockchain community of enthusiasts and investors. Cryptocurrencies, blockchain tech, ICOs, regulation and markets analysis.
 https://cryptonewsreview.com
 
-* Eth News
+* **Eth News** ETHNews.com is the authority in news, prices, analysis and information on Ethereum and its decentralized blockchain platform and cryptocurrency.
 https://www.ethnews.com/
 
 ## Valuation and Ranking Sites
 
-* Coingecko
+* **Coingecko** CoinGecko is a coin market ranking chart app that ranks digital currencies by developer activity, community, and liquidity. Check out the latest ranking for major cryptocurrencies such as Bitcoin, Litecoin, Peercoin, and more.
 https://www.coingecko.com
 
-* CryptoCompare 
+* **CryptoCompare** Bring you all the latest streaming pricing data in the world of cryptocurrencies. Whether you are just interested in the bitcoin price or you want to see the latest ether volume, we have all the data available at your fingertips. Join the discussion on our active forums, get daily market updates, and gain access to the best reviews and data in the cryptocurrency sector.
 https://www.cryptocompare.com/
 
-* Coinranking
+* **Coinranking** Cryptocurrency price tracker. Mobile-friendly and fast. Thousands of coins, like Bitcoin, Ethereum and many more.
 https://coinranking.com/
 
-* Coinmarketcap
+* **Coinmarketcap** Cryptocurrency market cap rankings, charts, and more.
 https://coinmarketcap.com
 
-* CoinCap
+* **CoinCap** Real-time cryptocurrency market cap rankings, trading charts, and more.
 https://coincap.io/
 
-* LiveCoinWatch
+* **LiveCoinWatch** The best real-time crypto price index with graphs & historical data for 1500+ coins including bitcoin, ethereum, & altcoins from major cryptocurrency exchanges.
 https://www.livecoinwatch.com/
 
-* CoinLib
+* **CoinLib** Live and historic cryptocurrency prices, news, charts and coin rankings. Portfolio tracking, price alerts and other advanced tools.
 https://coinlib.io/
 
-* Coincall
+* **Coincall** Track and manage your crypto portfolio - Mobile friendly & fast. Follow Bitcoin, Ethereum and 1000 other major cryptocurrencies
 https://coincall.io/
 
-* World Coin Index
+* **World Coin Index** Cryptocoins ranked by 24hr trading volume, price info, charts, market cap and news.
 https://www.worldcoinindex.com/
 
-* Coirrency
+* **Coirrency** Cryptocurrency market cap rankings, charts, and more.
 https://www.coirrency.com/features/dashboard
 
-* 99Bitcoins
+* **99Bitcoins** 99Bitcoins supplies video and text tutorial on how to buy Bitcoins with Paypal, Credit Card, debit card and more. We also supply you with your first Bitcoin.
 https://99bitcoins.com/
 
-* Altcoins.racing
+* **Altcoins.racing** Alcoins Racing monitors the change in cryptocurrency exchange rates within a day, a week or a month. The service covers hundreds of popular and not so popular altcoins. See the top winners and losers.
 https://altcoins.racing/
 
-* MyToken
+* **MyToken** China's most popular cryptocurrency platform.
 https://www.mytoken.io/
+
+* **Narmb** Cryptocurrency market cap rankings, charts, and more.
+https://www.narmb.com/?locale=en
 
 ## Cryptocurrency Data & Info Sites
 
@@ -370,7 +373,7 @@ https://t.me/WallMonitor
 
 - [ ] Table layout
 - [ ] Multi-Languages (English/Turkish/Russian/Chinese)
-- [ ] Description ( *Work In Progress - [22% Completed]* )
+- [ ] Description ( *Work In Progress - [48% Completed]* )
 - [ ] Trading Courses videos
 - [ ] New categories
 
