@@ -371,11 +371,11 @@ https://t.me/WallMonitor
 
 # To-Do List
 
-[] Table layout
-[] Multi-Languages (English/Turkish/Russian/Chinese)
-[] Description
-[] Trading Courses videos
-[] New categories
+- [] Table layout
+- [] Multi-Languages (English/Turkish/Russian/Chinese)
+- [] Description
+- [] Trading Courses videos
+- [] New categories
 
 
 # Contributions
