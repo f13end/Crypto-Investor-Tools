@@ -216,9 +216,6 @@ https://www.mytoken.io/
 
 ## Cryptocurrency Data & Info Sites
 
-* Vectorspace
-https://vectorspace.ai/smart_token_baskets/smart-token-basket.html
-
 * Bitcoinity
 http://data.bitcoinity.org
 
