@@ -14,58 +14,58 @@ Your [contributions](Contributing.md) are always welcome !
 # Cryptocurrency Investor Tools
 ## News Aggregators
 
-* Cryptopanic
+* **Cryptopanic** News aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 https://cryptopanic.com/
 
-* CoinBuzz.stream
+* **CoinBuzz.stream** News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
 https://cryptocontrol.io/en/social
 
-* Coinspectator
+* **Coinspectator** Monitor the latest cryptocurrency news with our real-time aggregator bringing you the top crypto news today in one simple feed 24/7.
 https://coinspectator.com/
 
-* CryptoFlash
+* **CryptoFlash** CryptoFlash is a news aggregator platform tracking the latest news & rumors about more than 200 cryptocurrencies. Join us and keep up to date with what's going on in the cryptocurrency ecosystem!
 https://cryptoflash.io/
 
-* Faws
+* **Faws** Personalized cryptocurrencies news aggregator for investor looking to follow impact of news on market, be notified in realtime on any news, analysis or press releases matching with your watchlist.
 https://faws.com/
 
-* Coinlib
+* **Coinlib** Live and historic cryptocurrency prices, news, charts and coin rankings. Portfolio tracking, price alerts and other advanced tools.
 https://coinlib.io/
 
-* CryptoCoin
+* **CryptoCoin** CryptcoCoin.cc: Digital Cryptocurrency Software Database and News Portal.
 http://cryptocoin.cc/
 
-* CoinLive
+* **CoinLive** Crypto News ✅ - Find the latest cryptocurrency news collected from around the net. Simple in Website 
 https://www.coinlive.io/pro
 
-* CryptoControl
+* **CryptoControl** News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
 https://cryptocontrol.io/
 
-* CoinNA
+* **CoinNA** Cryptocurrency news aggregator for Bitcoin, Ethereum, altcoins, cryptocurrencies, exchanges and all other things blockchain related.
 https://www.coinna.com/
 
-* CryptoCoinOwl
+* **CryptoCoinOwl** Latest cryptocurrency news. Live prices and crypto charts. Useful tools that help traders and investors make educated decisions. Dashboard for bitcoin, ethereum, ripple and other crypto coins.
 https://ccowl.com/
 
-* News Now
+* **News Now** Get news as it breaks from 1000s of local, national and international sources - a one stop shop for news, sport, entertainment and business news - by NewsNow.
 http://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies
 
-* CoinBeagle
+* **CoinBeagle** CoinBeagle provides the Latest Cryptocurrency News. Covering recent Coin, Token and Blockchain News. 11 Feeds with Auto Ad and Sponsored Post Removal.
 https://www.coinbeagle.com/news/
 
-* CoinLoop
+* **CoinLoop** CoinLoop ✅ The number one cryptocurrency dashboard. Featuring advanced trading indicators, view prices, live charts and track your cryptocurrency portfolio and the coins you care about.
 https://coinloop.io/
 
-* Coins.live
+* **Coins.live** Cryptocurrency prices, Prortfolio Tracker, Crypto News - Search, sort and filter all Cryptocurrency prices in real time.
 https://coins.live/news/
 
-* Bitmakler
+* **Bitmakler** BitMakler will keep You informed on the latest events in the cryptocurrency world, Blockchain, ICO, Financial Technology(Fintech), solve issues mining and trading cryptocurrencies.
 https://bitmakler.net/
 
-* Coinhooked
+* **Coinhooked** Coinhooked.com - CRYPTO NEWS TODAY, Top News from the best cryptocurrency news sources, daily news recap, infographics and Cryptocurrency News Today.
 https://coinhooked.com/
 
-* Bitcoinagile
+* **Bitcoinagile** Real-Time Market Data and News Discovery Paltform.
 http://bitcoinagile.com/default
 
 ### --- Reddit For Aggregated News and Off-topic
@@ -373,7 +373,7 @@ https://t.me/WallMonitor
 
 - [ ] Table layout
 - [ ] Multi-Languages (English/Turkish/Russian/Chinese)
-- [ ] Description
+- [ ] Description ( *Work In Progress - [22% Completed]* )
 - [ ] Trading Courses videos
 - [ ] New categories
 
