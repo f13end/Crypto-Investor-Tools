@@ -35,7 +35,7 @@ https://coinlib.io/
 * **CryptoCoin** CryptcoCoin.cc: Digital Cryptocurrency Software Database and News Portal.
 http://cryptocoin.cc/
 
-* **CoinLive** Crypto News ✅ - Find the latest cryptocurrency news collected from around the net. Simple in Website 
+* **CoinLive** Find the latest cryptocurrency news collected from around the net. Simple in Website 
 https://www.coinlive.io/pro
 
 * **CryptoControl** News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
@@ -53,7 +53,7 @@ http://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies
 * **CoinBeagle** CoinBeagle provides the Latest Cryptocurrency News. Covering recent Coin, Token and Blockchain News. 11 Feeds with Auto Ad and Sponsored Post Removal.
 https://www.coinbeagle.com/news/
 
-* **CoinLoop** CoinLoop ✅ The number one cryptocurrency dashboard. Featuring advanced trading indicators, view prices, live charts and track your cryptocurrency portfolio and the coins you care about.
+* **CoinLoop** The number one cryptocurrency dashboard. Featuring advanced trading indicators, view prices, live charts and track your cryptocurrency portfolio and the coins you care about.
 https://coinloop.io/
 
 * **Coins.live** Cryptocurrency prices, Prortfolio Tracker, Crypto News - Search, sort and filter all Cryptocurrency prices in real time.
