@@ -12,7 +12,7 @@ This resource was made by the developers and investors alike! We appreciate and 
 
 ## Adding to the List
 
-- Please add the content to the `README.md` file and make sure that the edited list is in alphabetical order.
+- Please add the content to the `README.md` file.
 - Submit a pull request.
 
 ## Removing from the List
