@@ -32,7 +32,7 @@ https://faws.com/
 * **Coinlib** Live and historic cryptocurrency prices, news, charts and coin rankings. Portfolio tracking, price alerts and other advanced tools.
 https://coinlib.io/
 
-* **CryptoCoin** CryptcoCoin.cc: Digital Cryptocurrency Software Database and News Portal.
+* **CryptoCoin** Digital Cryptocurrency Software Database and News Portal.
 http://cryptocoin.cc/
 
 * **CoinLive** Find the latest cryptocurrency news collected from around the net. Simple in Website 
@@ -62,7 +62,7 @@ https://coins.live/news/
 * **Bitmakler** BitMakler will keep You informed on the latest events in the cryptocurrency world, Blockchain, ICO, Financial Technology(Fintech), solve issues mining and trading cryptocurrencies.
 https://bitmakler.net/
 
-* **Coinhooked** Coinhooked.com - CRYPTO NEWS TODAY, Top News from the best cryptocurrency news sources, daily news recap, infographics and Cryptocurrency News Today.
+* **Coinhooked** Top News from the best cryptocurrency news sources, daily news recap, infographics and Cryptocurrency News Today.
 https://coinhooked.com/
 
 * **Bitcoinagile** Real-Time Market Data and News Discovery Paltform.
