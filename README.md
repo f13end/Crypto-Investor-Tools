@@ -256,13 +256,13 @@ https://cryptoslate.com/events/
 
 ## Live Price Watcher Sites
 
-* Cryptowatch
+* **Cryptowatch** Live price charts and market data for Bitcoin, Ethereum, and more.
 https://cryptowat.ch/
 
-* Bitcoin Wisdom
+* **Bitcoin Wisdom** Live Bitcoin/Litecoin charts with EMA, MACD and other indicators.
 https://bitcoinwisdom.com/
 
-* BTC.Amfeed
+* **BTC.Amfeed** Watch live large Bitcoin market buys & sells from all major exchanges in real-time.
 http://btc.amfeed.com/
 
 ## Charts, Quotes and Trade Idea Sites
