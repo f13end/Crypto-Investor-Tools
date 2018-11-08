@@ -68,9 +68,6 @@ https://coinhooked.com/
 * **Bitcoinagile** Real-Time Market Data and News Discovery Platform.
 http://bitcoinagile.com/default
 
-* **ArbingTool** Monitor arbitrage opportunities between exchanges. Also live coin prices and fee schedule avaliable.
-https://www.arbing.info/
-
 ### --- Reddit For Aggregated News and Off-topic
 
 * /r/Bitcoin
@@ -270,6 +267,9 @@ https://bitcoinwisdom.com/
 
 * **BTC.Amfeed** Watch live large Bitcoin market buys & sells from all major exchanges in real-time.
 http://btc.amfeed.com/
+
+* **ArbingTool** Monitor arbitrage opportunities between exchanges. Also live coin prices and fee schedule avaliable.
+https://www.arbing.info/
 
 ## Charts, Quotes and Trade Idea Sites
 
