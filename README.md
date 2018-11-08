@@ -65,8 +65,11 @@ https://bitmakler.net/
 * **Coinhooked** Top News from the best cryptocurrency news sources, daily news recap, infographics and Cryptocurrency News Today.
 https://coinhooked.com/
 
-* **Bitcoinagile** Real-Time Market Data and News Discovery Paltform.
+* **Bitcoinagile** Real-Time Market Data and News Discovery Platform.
 http://bitcoinagile.com/default
+
+* **ArbingTool** Monitor arbitrage opportunities between exchanges. Also live coin prices and fee schedule avaliable.
+https://www.arbing.info/
 
 ### --- Reddit For Aggregated News and Off-topic
 
