@@ -18,3 +18,7 @@ This resource was made by the developers and investors alike! We appreciate and 
 ## Removing from the List
 
 - If you have any issues accessing any of the resources listed here, please let us know.
+
+## Contributors
+
+- @ocengiz0
