@@ -378,8 +378,7 @@ https://t.me/WallMonitor
 # Tutorials
 
 * Pine Scripting
-
-> Our Youtube Playlist
+⋅⋅* Our Youtube Playlist
 https://www.youtube.com/playlist?list=PLUseeqY5qQGXLsmK6FRH6yjkcg54a-d1U
 
 # To-Do List
