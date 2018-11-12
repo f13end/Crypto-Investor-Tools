@@ -385,7 +385,7 @@ https://t.me/WallMonitor
 
 - [ ] Table layout
 - [ ] Multi-Languages (English/Turkish/Russian/Chinese)
-- [ ] Description ( *Work In Progress - [**48% Completed**]* )
+- [ ] Description ( *Work In Progress - [**82% Completed**]* )
 - [ ] Trading Courses videos
 - [ ] New categories
 
