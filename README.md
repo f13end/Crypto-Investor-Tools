@@ -378,10 +378,8 @@ https://t.me/WallMonitor
 # Tutorials
 
 * Pine Scripting
-    - Our Youtube Playlist
-https://www.youtube.com/playlist?list=PLUseeqY5qQGXLsmK6FRH6yjkcg54a-d1U
-    - Create Binance Bot in Python - Cryptocurrency Trader
-    https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw
+    - [Our Youtube Playlist](https://www.youtube.com/playlist?list=PLUseeqY5qQGXLsmK6FRH6yjkcg54a-d1U)
+    - [Create Binance Bot in Python - Cryptocurrency Trader](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw)
 
 # To-Do List
 
