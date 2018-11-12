@@ -230,31 +230,31 @@ https://www.cryptodatadownload.com/
 
 ## Coin Events & Calendar Sites
 
-* Coinmarketcal
+* **Coinmarketcal** The economic calendar for the cryptocurrency market. Evidence-based and community-driven.
 https://coinmarketcal.com/
 
-* Coins Calendar
+* **Coins Calendar** CoinsCalendar is a cryptocurrency events calendar. You will be first to know about all upcoming hard fork, exchange listings, releases, updates, conferences etc.
 https://www.coinscalendar.com/
 
-* cryptocalendar.pro
+* **cryptocalendar.pro** Cryptocurrency calendar: coins and tokens events, hard forks, exchange listings etc, ICOs. Don't miss important events!
 https://cryptocalendar.pro/
 
-* Coinschedule
+* **Coinschedule** The original list of ICOs (Initial Coin Offering) and Token Sales, Crypto Conferences and News for Bitcoin, Ethereum, Waves, Ripple and other altcoins.
 https://www.coinschedule.com/
 
-* Coindar
+* **Coindar** Cryptocurrency calendar will notify you about releases, hard forks, tokens swaps, meetups, conferences, listings on the exchanges, etc.
 https://coindar.org/
 
-* Coincalendar.info
+* **Coincalendar.info** Hot Events Hot Upcoming Cryptocurrency Events
 http://www.coincalendar.info/
 
-* Coinmarketcap Events
+* **Coinmarketcap Events** While Coinmarketcap's events page is rudimentary, it's perfect for keeping track of upcoming blockchain conferences of note. 
 https://coinmarketcap.com/events/
 
-* Coincalendar.cc
+* **Coincalendar.cc** A crypto calendar with events, roadmap ICO calendar of all your favourite cryptocurrencies. The most complete coin calendar.
 https://www.coincalendar.cc/
 
-* Cryptoslate Events
+* **Cryptoslate Events** CryptoSlate publishes the largest cryptocurrency and blockchain event directory on the internet.
 https://cryptoslate.com/events/
 
 ## Live Price Watcher Sites
@@ -273,36 +273,36 @@ https://www.arbing.info/
 
 ## Charts, Quotes and Trade Idea Sites
 
-* Tradingview
+* **Tradingview** Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
 https://www.tradingview.com/
 
-* Investing
+* **Investing** Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
 https://www.investing.com/
 
-* Gocharting
+* **Gocharting** GoCharting is a modern financial analytics platform offering world-class trading and charting experience.
 https://gocharting.com/
 
-* StockCharts
+* **StockCharts** Trusted by thousands of online investors, StockCharts.com has the award-winning charting tools, analysis resources and expert commentary you need to invest smarter.
 http://www.freestockcharts.com/
 
-* Finviz
+* **Finviz** Stock screener for investors and traders, financial visualizations.
 https://finviz.com/
 
-* Coinigy
+* **Coinigy** Looking for professional Bitcoin and cryptocurrency trading tools? Coinigy lets you trade on every Bitcoin exchange through one account
 https://www.coinigy.com/
 
 ## Crypto Forums
 
-* Bitcointalk
+* **Bitcointalk** Bitcoin Discussion General discussion about the Bitcoin ecosystem that doesn't fit better elsewhere. News, the Bitcoin community, innovations, etc...
 https://bitcointalk.org/
 
-* CC Forums
+* **CC Forums** Forums and interact with other crypto enthusiasts and crypto traders. 
 https://www.cryptocompare.com/forum/#/coin
 
-* Master of Cryptos
+* **Master of Cryptos** Join our bitcoin forum and discuss the top cryptocurrency topics ranging from altcoin reviews to mining strategies. 
 https://mastersofcrypto.com/forum/
 
-* StackExchange
+* **StackExchange** Stack Exchange Q&A communities are different. Here's how: Speech bubbles. Expert communities. 
 https://bitcoin.stackexchange.com/
 
 * Blockchain Forums
@@ -319,46 +319,46 @@ http://www.altcoinstalks.com/
 
 ## ICO / Projects Review Sites
 
-* TokenMarket
+* **TokenMarket** Research, invest and trade tokens. TokenMarket is a utility and security token trading platform and database. 
 https://tokenmarket.net/
 
-* ICO Holder
+* **ICO Holder** Lists with detailed information about every initial coin offering and tokens crowdsale. Rating of all best ICOs.
 https://icoholder.com/
 
-* ICO Rating
+* **ICO Rating** ICORating contains a complete list of all ICO: upcoming, Active and Ended ICO with rating and analysis.
 https://icorating.com/
 
-* ICObench
+* **ICObench** ICO rating, listing, and calendar with details on top ICOs from various industries. Learn more about ICO funding, whitepaper, dates, teams, and roadmaps.
 https://icobench.com/
 
-* Cryptobriefing
+* **Cryptobriefing** Crypto news that's reliable, fact-checked, and honest. Digital asset research that's independent and unbiased. Covering everything from Bitcoin to altcoins
 https://cryptobriefing.com/ico-reviews/
 
-* ICO Hot List
+* **ICO Hot List** ICO Hot list is the only unbiased and manually curated list of active, upcoming, and traded Token sales. Your top choice for quality ICO's.
 https://www.icohotlist.com/
 
-* CryptoRated
+* **CryptoRated** In-depth analysis, ratings and reviews for any initial coin offering (ICO). Get the latest information about every ICO, cryptocurrency and token crowdsale.
 https://cryptorated.com/
 
-* ICOReview
+* **ICOReview** The industry standard for passive income coin ICO reviews, ratings and intelligence reports. we provide in-depth analysis of all coin ICOs database list.
 https://icoreview.site/
 
-* TokenTops
+* **TokenTops** ICO Lists with detailed information about every initial coin offering and tokens crowdsale. Rating of all best ICOs. Review of all existing initial coin offering.
 https://tokentops.com/
 
 * ICOCrunch
 https://icocrunch.io/
 
-* ICODOG
+* **ICODOG** Looking for a specific ICO review? at ICODOG you'll learn it first about all upcoming top ICOs with our in-depth research and analysis.
 https://icodog.io/
 
-* TopICOList
+* **TopICOList** Top ICO List is curated by ICO analysts to bring you the best new ICOs that are active, upcoming or in discounted pre ICO. Best choice for quality ICOs.
 https://topicolist.com/
 
-* ICO Market Data
+* **ICO Market Data** Best Initial Coin Offering List. Check the most promising active and upcoming ICOs or token sales in the world. Top choice for best rated ICOs and cryptocurrency
 https://www.icomarketdata.com/earlybird
 
-* Visionary.life
+* **Visionary.life** Materials about blockchain, IOT, VR, AI and other technologies. Read our ICO reviews, interviews with blockchain experts and much more. 
 https://listing.visionary.life/
 
 ## Telegram Channel
