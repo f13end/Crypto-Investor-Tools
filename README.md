@@ -220,6 +220,9 @@ https://www.mytoken.io/
 * **Narmb** Cryptocurrency market cap rankings, charts, and more.
 https://www.narmb.com/?locale=en
 
+* **ChainShuttle** chainshuttle is a daily report on trending cryptocurrency, based on social media activity, price, volume and a bit of magic.
+https://chainshuttle.com/
+
 ## Cryptocurrency Data & Info Sites
 
 * Bitcoinity
