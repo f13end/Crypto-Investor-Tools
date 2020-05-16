@@ -154,7 +154,7 @@ http://news.bitcoin.com/
 * **BraveNewCoin** Brave New Coin (BNC) is a Blockchain and Crypto Asset Market Data company. We publish technical analysis and research, used by key decision makers.
 https://bravenewcoin.com/home
 
-* Bitcoin Exchange Guide
+* **Bitcoin Exchange Guide**
 https://bitcoinexchangeguide.com/
 
 * **Cryptovest** Cryptovest - World's largest cryptocurrency and ICO media publisher offers the latest news, reviews and knowledge centre.
@@ -282,14 +282,14 @@ https://www.livecoinwatch.com/
 * **CoinLib** Live and historic cryptocurrency prices, news, charts and coin rankings. Portfolio tracking, price alerts and other advanced tools.
 https://coinlib.io/
 
-* **Coincall** Track and manage your crypto portfolio - Mobile friendly & fast. Follow Bitcoin, Ethereum and 1000 other major cryptocurrencies
-https://coincall.io/
+* **Coincall** ~~Track and manage your crypto portfolio - Mobile friendly & fast. Follow Bitcoin, Ethereum and 1000 other major cryptocurrencies
+https://coincall.io/~~
 
 * **World Coin Index** Cryptocoins ranked by 24hr trading volume, price info, charts, market cap and news.
 https://www.worldcoinindex.com/
 
-* **Coirrency** Cryptocurrency market cap rankings, charts, and more.
-https://www.coirrency.com/features/dashboard
+* **Coirrency** ~~Cryptocurrency market cap rankings, charts, and more.
+https://www.coirrency.com/features/dashboard~~
 
 * **99Bitcoins** 99Bitcoins supplies video and text tutorial on how to buy Bitcoins with Paypal, Credit Card, debit card and more. We also supply you with your first Bitcoin.
 https://99bitcoins.com/
@@ -300,8 +300,8 @@ https://altcoins.racing/~~
 * **MyToken** China's most popular cryptocurrency platform.
 https://www.mytoken.io/
 
-* **Narmb** Cryptocurrency market cap rankings, charts, and more.
-https://www.narmb.com/?locale=en
+* **Narmb** ~~Cryptocurrency market cap rankings, charts, and more.
+https://www.narmb.com/?locale=en~~
 
 * **ChainShuttle** chainshuttle is a daily report on trending cryptocurrency, based on social media activity, price, volume and a bit of magic.
 https://chainshuttle.com/
@@ -350,37 +350,37 @@ https://app.co/
 
 ## Cryptocurrency Data & Info Sites
 
-* Bitcoinity
+* **Bitcoinity**
 http://data.bitcoinity.org
 
-* Crypto Data Download
+* **Crypto Data Download**
 https://www.cryptodatadownload.com/
 
-* Data Worlds 
+* **Data Worlds **
 https://data.world/datasets/cryptocurrency
 
-* Knoema
+* **Knoema**
 https://knoema.com/insights/Cryptocurrency
 
-* Kaggle Datasets
+* **Kaggle Datasets**
 https://www.kaggle.com/datasets?search=crypto
 
-* Cryptocurrency Data in Google Sheets 
+* **Cryptocurrency Data in Google Sheets **
 https://spreadstreet.io/
 
-* Bitcoin vs The World's Money Supplies
+* **Bitcoin vs The World's Money Supplies**
 https://bitcoinmoneysupply.xyz/
 
-* Markets & Blockchain Data
+* **Markets & Blockchain Data**
 http://data.bitcoinity.org/markets/volume/30d?c=e&t=b
 
-* View charts about the OP_RETURN script in the Bitcoin blockchain
+* **View charts about the OP_RETURN script in the Bitcoin blockchain**
 https://opreturn.org/
 
-* Alternative.me - provide important information about the crypto market at a single glance.
+* **Alternative.me** - provide important information about the crypto market at a single glance.
 https://alternative.me/crypto/
 
-* Volatility Index
+* **Volatility Index**
 https://www.buybitcoinworldwide.com/volatility-index/
 
 ## Coin Events & Calendar Sites
