@@ -148,7 +148,7 @@ https://bitcoinexchangeguide.com/
 https://cryptovest.com/
 
 * **CCN** At CCN we provide you with the latest cryptocurrency news, including cryptocurrencies like Ethereum, Bitcoin, EOS, NEO, Litecoin, and major ICOs.
-http://ccn.com/
+https://www.ccn.com/crypto/
 
 * **Hacked** Exclusive analysis of cryptocurrencies like Bitcoin, Ethereum, Litecoin, including rating of Initial Coin Offerings (ICO), trade recommendations, Stocks, Forex, Tutorials, and market recaps.
 https://hacked.com/
@@ -225,13 +225,13 @@ https://medium.com/coinmonks
 * **Crypto Gon**
 https://www.cryptogon.com/
 
-* **Box Mining**
+* **Box Mining** The most recent insights about Bitcoin, Ethereum and the Crypto industry at Boxminin - Cryptocurrency trends, Wallets and Reviews.
 https://boxmining.com/
 
 * **Coin Funda**
 https://coinfunda.com/
 
-* **Decrypt**
+* **Decrypt** Read the latest Bitcoin and Ethereum news from Decrypt. Get the latest on cryptocurrency prices, breaking news, and more about Bitcoin and blockchain.
 https://decrypt.co/
 
 * **The Block Crypto** The Block is your reliable and newsworthy source for all things pertaining to blockchain and crypto.
