@@ -494,6 +494,11 @@ https://www.icomarketdata.com/earlybird
 * **Visionary.life** Materials about blockchain, IOT, VR, AI and other technologies. Read our ICO reviews, interviews with blockchain experts and much more. 
 https://listing.visionary.life/
 
+## Tools
+
+* **Tai** Open source and free composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine.
+https://github.com/fremantle-capital/tai
+
 ## Telegram Channel
 
 * Coin Sniper
