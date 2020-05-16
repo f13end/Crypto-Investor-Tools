@@ -95,6 +95,7 @@ https://www.coinbeagle.com/news/
 * **Geek Wrapped**
 https://www.geekwrapped.com/
 
+
 ### --- Reddit For Aggregated News and Off-topic
 
 * /r/Bitcoin
@@ -232,6 +233,9 @@ https://coinfunda.com/
 
 * **Decrypt**
 https://decrypt.co/
+
+* **The Block Crypto** The Block is your reliable and newsworthy source for all things pertaining to blockchain and crypto.
+https://www.theblockcrypto.com/
 
 ## Valuation and Ranking Sites
 
