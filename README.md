@@ -307,6 +307,9 @@ https://app.santiment.net/
 * **Glassnode** On-Chain Data and Intelligence Platform
 https://glassnode.com/
 
+* **Blockchair** Block explorer and the most powerful API for BTC, ETH, XRP, XLM, BCH, LTC, DASH, BSV, DOGE, GRS and TON that allow you to find, sort and filter
+https://blockchair.com/
+
 ## Cryptocurrency Data & Info Sites
 
 * Bitcoinity
@@ -517,16 +520,16 @@ https://www.tradingview.com/people/all/
 
 ## Youtube Channels
 
-* **The Cryptoverse**
+* The Cryptoverse
 https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw
 
-* **World Crypto Network**
+* World Crypto Network
 https://www.youtube.com/user/WorldCryptoNetwork
 
-* **aantonop**
+* aantonop
 https://www.youtube.com/user/aantonop/featured
 
-* **Bitcoin and Cryptocurrency Technologies Online Course**
+* Bitcoin and Cryptocurrency Technologies Online Course
 https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
 
 
