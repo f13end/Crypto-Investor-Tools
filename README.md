@@ -356,7 +356,7 @@ http://data.bitcoinity.org
 * **Crypto Data Download**
 https://www.cryptodatadownload.com/
 
-* **Data Worlds **
+* **Data Worlds**
 https://data.world/datasets/cryptocurrency
 
 * **Knoema**
