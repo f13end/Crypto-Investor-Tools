@@ -542,6 +542,51 @@ https://www.youtube.com/user/aantonop/featured
 * Bitcoin and Cryptocurrency Technologies Online Course
 https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
 
+## Documentaries
+
+https://vimeo.com/226777744
+https://www.youtube.com/watch?v=LszOt51OjXU
+https://www.youtube.com/watch?v=PVo5wCSnmSs
+https://www.youtube.com/watch?v=8zKuoqZLyKg
+https://www.youtube.com/watch?v=tUqq3Ug05h0
+https://www.youtube.com/watch?v=HUpGHOLkoXs
+https://www.youtube.com/watch?v=zWrG6TCP1fA
+https://www.youtube.com/watch?v=_0axyH2X6mI
+https://www.youtube.com/watch?v=K8kua5B5K3I
+https://www.youtube.com/watch?v=u-vrdPtZVXc
+https://www.youtube.com/watch?v=PVo5wCSnmSs
+https://vimeo.com/112223859
+https://vimeo.com/137032828
+https://www.amazon.com/Bitcoin-Experiment-Pal-Karleson/dp/B01JBA8HYK/
+https://www.youtube.com/watch?v=2I6dXRK9oJo
+https://www.youtube.com/watch?v=6pWblf8COH4
+https://www.amazon.com/Bitcoin-Story-Gavin-Andresen/dp/B00V0RZZEI/
+https://blockchain-documentary.com/
+https://www.youtube.com/watch?v=ZKwqNgG-Sv4&feature=youtu.be
+https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo
+
+## Lessons
+
+https://coursera.org/learn/cryptocurrency
+https://udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto
+https://khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
+https://pluralsight.com/courses/bitcoin-decentralized-technology
+https://digitalcurrency.unic.ac.cy/free-introductory-mooc/
+https://udemy.com/introduction-to-cryptocurrencies/?siteID=Fh5UMknfYAU-xbeKTDXOJS8CtXYthD7udg&LSNPUBID=Fh5UMknfYAU
+https://thebitcoin.pub/t/the-10-days-of-bitcoin-free-course/60877?u=john
+https://www.binance.vision/
+https://www.youtube.com/watch?v=MJ0OzrkHvXA&list=PLjyTtFk7i2AHvjMo0-ftIVqSNGPcwCaJt
+https://blockchain.berkeley.edu/courses/
+https://www.edx.org/course/bitcoin-and-cryptocurrencies
+https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
+https://github.com/chaincodelabs/bitcoin-curriculum
+https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
+https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q
+https://www.unic.ac.cy/blockchain/free-mooc/
+https://mooniversity.io/
+https://teachbitcoin.io/
+https://dci.mit.edu/courses/
+
 
 # Tutorials
 
