@@ -365,7 +365,7 @@ https://knoema.com/insights/Cryptocurrency
 * **Kaggle Datasets**
 https://www.kaggle.com/datasets?search=crypto
 
-* **Cryptocurrency Data in Google Sheets **
+* **Cryptocurrency Data in Google Sheets**
 https://spreadstreet.io/
 
 * **Bitcoin vs The World's Money Supplies**
