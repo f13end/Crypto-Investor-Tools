@@ -1,6 +1,6 @@
 # [Cryptocurrency Investor Tools](https://github.com/f13end/Crypto-Investor-Tools) [![Twitter](https://img.shields.io/twitter/url/https/github.com/f13end/Crypto-Investor-Tools/network.svg?style=social)](https://twitter.com/intent/tweet?text=CryptoCurrency%20Investor%20Tools%20-%20a%20collection%20of%20awesome%20lists%20for%20cryptocurrency%20trader%20and%20investor%20by%20@coinciyiz%20https://github.com/f13end/Crypto-Investor-Tools%20#bitcoin%20#crypto:&url=https%3A%2F%2Fgithub.com%2Ff13end%2FCrypto-Investor-Tools%2Fnetwork)
 
-<img width="80%" src="img/f13.jpg">
+<img width="100%" src="img/f13.jpg">
 
 
 
