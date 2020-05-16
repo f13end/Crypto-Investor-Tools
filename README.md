@@ -364,8 +364,8 @@ https://cryptoslate.com/events/
 * **Cryptowatch** Live price charts and market data for Bitcoin, Ethereum, and more.
 https://cryptowat.ch/
 
-* **Bitcoin Wisdom** ~~Live Bitcoin/Litecoin charts with EMA, MACD and other indicators.
-https://bitcoinwisdom.com/~~
+* **Bitcoin Wisdom** Live Bitcoin/Litecoin charts with EMA, MACD and other indicators.
+https://bitcoinwisdom.io/
 
 * **BTC.Amfeed** ~~Watch live large Bitcoin market buys & sells from all major exchanges in real-time.
 http://btc.amfeed.com/~~
@@ -494,11 +494,6 @@ https://www.icomarketdata.com/earlybird
 * **Visionary.life** Materials about blockchain, IOT, VR, AI and other technologies. Read our ICO reviews, interviews with blockchain experts and much more. 
 https://listing.visionary.life/
 
-## Tools
-
-* **Tai** Open source and free composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine.
-https://github.com/fremantle-capital/tai
-
 ## Telegram Channel
 
 * Coin Sniper
@@ -522,16 +517,16 @@ https://www.tradingview.com/people/all/
 
 ## Youtube Channels
 
-* The Cryptoverse
+* **The Cryptoverse**
 https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw
 
-* World Crypto Network
+* **World Crypto Network**
 https://www.youtube.com/user/WorldCryptoNetwork
 
-* aantonop
+* **aantonop**
 https://www.youtube.com/user/aantonop/featured
 
-* Bitcoin and Cryptocurrency Technologies Online Course
+* **Bitcoin and Cryptocurrency Technologies Online Course**
 https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
 
 
