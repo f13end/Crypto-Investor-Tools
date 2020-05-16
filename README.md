@@ -253,6 +253,12 @@ https://www.theblockcrypto.com/
 * **BTC Wires** BTC Wires is an online digital media platform which provides information for the crypto and blockchain technology.
 https://www.btcwires.com/
 
+* **BeIN Crypto**
+https://beincrypto.com/
+
+* **Global rypto Press**
+https://www.globalcryptopress.com/
+
 ## Valuation and Ranking Sites
 
 * **Coingecko** CoinGecko is a coin market ranking chart app that ranks digital currencies by developer activity, community, and liquidity. Check out the latest ranking for major cryptocurrencies such as Bitcoin, Litecoin, Peercoin, and more.
@@ -288,8 +294,8 @@ https://www.coirrency.com/features/dashboard
 * **99Bitcoins** 99Bitcoins supplies video and text tutorial on how to buy Bitcoins with Paypal, Credit Card, debit card and more. We also supply you with your first Bitcoin.
 https://99bitcoins.com/
 
-* **Altcoins.racing** Alcoins Racing monitors the change in cryptocurrency exchange rates within a day, a week or a month. The service covers hundreds of popular and not so popular altcoins. See the top winners and losers.
-https://altcoins.racing/
+* **Altcoins.racing** ~~Alcoins Racing monitors the change in cryptocurrency exchange rates within a day, a week or a month. The service covers hundreds of popular and not so popular altcoins. See the top winners and losers.
+https://altcoins.racing/~~
 
 * **MyToken** China's most popular cryptocurrency platform.
 https://www.mytoken.io/
@@ -329,6 +335,18 @@ https://glassnode.com/
 
 * **Blockchair** Block explorer and the most powerful API for BTC, ETH, XRP, XLM, BCH, LTC, DASH, BSV, DOGE, GRS and TON that allow you to find, sort and filter
 https://blockchair.com/
+
+* **Bad Bitcoin** The Badbitcoin Project Exposing bitcoin and cryptocurrency frauds since Feb 2014
+https://www.badbitcoin.org/
+
+* **Dapp Radar** DappRadar provides information and insights about all the existing dapps! At the tap of your finger, find the most successful and used decentralized games
+https://dappradar.com/
+
+* **Dapp** Dapp.com is a space where everyone can discover what decentralized technology is and how it can transform the world. Find Best Decentralized Applications
+https://www.dapp.com/
+
+* **Appco** Blockstack Apps
+https://app.co/
 
 ## Cryptocurrency Data & Info Sites
 
@@ -518,7 +536,7 @@ https://stackoverflow.com/questions/tagged/hyperledger
 https://www.reddit.com/r/Bitcoin/
 
 
-## ICO / Projects Review Sites
+## ICO & Projects Review Sites
 
 * **TokenMarket** Research, invest and trade tokens. TokenMarket is a utility and security token trading platform and database. 
 https://tokenmarket.net/
@@ -562,8 +580,16 @@ https://www.icomarketdata.com/earlybird
 * **Visionary.life** Materials about blockchain, IOT, VR, AI and other technologies. Read our ICO reviews, interviews with blockchain experts and much more. 
 https://listing.visionary.life/
 
-* **Bad Bitcoin** The Badbitcoin Project Exposing bitcoin and cryptocurrency frauds since Feb 2014
-https://www.badbitcoin.org/
+* **ICOTracker**
+https://icotracker.net/upcoming
+
+* **Token Data**
+https://www.tokendata.io/
+
+* **ICO Drops**
+https://icodrops.com/
+
+
 
 ## Tools
 
@@ -632,6 +658,9 @@ https://t.me/WallMonitor
 
 * Bitcoin Core
 https://t.me/BitcoinCore
+
+* Crypto Ping
+https://cryptoping.tech/
 
 
 ## Tradingview Authors with Ranking
