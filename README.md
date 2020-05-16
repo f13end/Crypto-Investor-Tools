@@ -67,6 +67,28 @@ https://coinhooked.com/
 
 * **Bitcoinagile** Real-Time Market Data and News Discovery Platform.
 http://bitcoinagile.com/default
+* **Alltop**
+https://alltop.com/cryptocurrency
+* **Today on Chain**
+https://www.todayonchain.com/
+* **NewsNow**
+https://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies
+* **Coins.live**
+https://coins.live/news/
+* **Cryptonews AU**
+https://cryptonews.com.au/
+* **Coinspectator**
+https://coinspectator.com/
+* **Investing Crypto News**
+https://www.investing.com/news/cryptocurrency-news
+* **Crypto Control**
+https://cryptocontrol.io/en/
+* **FAWS**
+https://faws.com/
+* **Coinbeagle**
+https://www.coinbeagle.com/news/
+* **Geek Wrapped**
+https://www.geekwrapped.com/
 
 ### --- Reddit For Aggregated News and Off-topic
 
