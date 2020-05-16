@@ -539,52 +539,120 @@ https://www.youtube.com/user/WorldCryptoNetwork
 * aantonop
 https://www.youtube.com/user/aantonop/featured
 
-* Bitcoin and Cryptocurrency Technologies Online Course
-https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
 
 ## Documentaries
 
+* Banking On Bitcoin
 https://vimeo.com/226777744
+* Bitcoin: Beyond The Bubble - Full Documentary
 https://www.youtube.com/watch?v=LszOt51OjXU
+* Magic Money: The Bitcoin Revolution | Full Documentary
 https://www.youtube.com/watch?v=PVo5wCSnmSs
+* The Bitcoin Gospel | VPRO documentary (2015)
 https://www.youtube.com/watch?v=8zKuoqZLyKg
+* Bitcoin Documentary - The End of Money as We Know it
 https://www.youtube.com/watch?v=tUqq3Ug05h0
+
+* Evolution of Bitcoin - Full Documentary 2017 [HD]
 https://www.youtube.com/watch?v=HUpGHOLkoXs
+
+* 80 Trillion Dollar Bitcoin Exit Plan
 https://www.youtube.com/watch?v=zWrG6TCP1fA
+
+* Morgan Spurlock Living with Bitcoin 2015. The Future of Bitcoin
 https://www.youtube.com/watch?v=_0axyH2X6mI
+
+* Inside a Secret Chinese Bitcoin Mine
 https://www.youtube.com/watch?v=K8kua5B5K3I
+
+* Inside The Cryptocurrency Revolution | VICE on HBO
 https://www.youtube.com/watch?v=u-vrdPtZVXc
+
+* Magic Money: The Bitcoin Revolution | Full Documentary
 https://www.youtube.com/watch?v=PVo5wCSnmSs
+
+* The Bitcoin Doco - Episode 1
 https://vimeo.com/112223859
+
+* The Bitcoin Doco - Episode 2
 https://vimeo.com/137032828
+
+* The Bitcoin Experiment
 https://www.amazon.com/Bitcoin-Experiment-Pal-Karleson/dp/B01JBA8HYK/
+
+* Documentary The Bitcoin Gospel VPRO Backlight 
 https://www.youtube.com/watch?v=2I6dXRK9oJo
+
+* The Bitcoin Phenomenon
 https://www.youtube.com/watch?v=6pWblf8COH4
+
+* The Bitcoin Story
 https://www.amazon.com/Bitcoin-Story-Gavin-Andresen/dp/B00V0RZZEI/
+
+* The Blockchain and Us (2017)
 https://blockchain-documentary.com/
+
+* The Trust Machine (Bitcoin documentary)
 https://www.youtube.com/watch?v=ZKwqNgG-Sv4&feature=youtu.be
+
+* Ulterior States [IamSatoshi Documentary]
 https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo
+
 
 ## Lessons
 
+* Bitcoin and Cryptocurrency Technologies
 https://coursera.org/learn/cryptocurrency
+
+* Bitcoin or How I Learned to Stop Worrying and Love Crypto
 https://udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto
+
+* Bitcoin: What is it?
 https://khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
+
+* Introduction to Bitcoin and Decentralized Technology
 https://pluralsight.com/courses/bitcoin-decentralized-technology
+
+* Introduction to Digital Currencies
 https://digitalcurrency.unic.ac.cy/free-introductory-mooc/
+
+* Introduction to Cryptocurrencies and Blockchain
 https://udemy.com/introduction-to-cryptocurrencies/?siteID=Fh5UMknfYAU-xbeKTDXOJS8CtXYthD7udg&LSNPUBID=Fh5UMknfYAU
+
+* The 10 Days of Bitcoin
 https://thebitcoin.pub/t/the-10-days-of-bitcoin-free-course/60877?u=john
+
+* The World of Blockchain
 https://www.binance.vision/
+
+* Bitcoin Lessons Playlist
 https://www.youtube.com/watch?v=MJ0OzrkHvXA&list=PLjyTtFk7i2AHvjMo0-ftIVqSNGPcwCaJt
+
+* Berkeley Blockchain
 https://blockchain.berkeley.edu/courses/
+
+* Bitcoin and Cryptocurrencies
 https://www.edx.org/course/bitcoin-and-cryptocurrencies
+
+* Bitcoin and Cryptocurrency Technologies Online Course
 https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
+
+* Bitcoin Protocol Development Curriculum
 https://github.com/chaincodelabs/bitcoin-curriculum
+
+* Bitcoin Khan Academy
 https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
+
+* 101 Blackboard Series
 https://www.youtube.com/playlist?list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q
-https://www.unic.ac.cy/blockchain/free-mooc/
+
+* Learn Bitcoin Programming
 https://mooniversity.io/
+
+* Teach Bitcoin Protocol Training for Developers
 https://teachbitcoin.io/
+
+* Blockchain courses at MIT
 https://dci.mit.edu/courses/
 
 
