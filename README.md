@@ -517,16 +517,16 @@ https://www.tradingview.com/people/all/
 
 ## Youtube Channels
 
-* **The Cryptoverse**
+* The Cryptoverse
 https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw
 
-* **World Crypto Network**
+* World Crypto Network
 https://www.youtube.com/user/WorldCryptoNetwork
 
-* **aantonop**
+* aantonop
 https://www.youtube.com/user/aantonop/featured
 
-* **Bitcoin and Cryptocurrency Technologies Online Course**
+* Bitcoin and Cryptocurrency Technologies Online Course
 https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
 
 
