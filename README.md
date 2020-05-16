@@ -379,7 +379,7 @@ https://www.coincalendar.cc/
 * **Cryptoslate Events** CryptoSlate publishes the largest cryptocurrency and blockchain event directory on the internet.
 https://cryptoslate.com/events/
 
-## Live Price Watcher Sites
+## Live Price & Data Watcher Sites
 
 * **Cryptowatch** Live price charts and market data for Bitcoin, Ethereum, and more.
 https://cryptowat.ch/
@@ -392,6 +392,12 @@ http://btc.amfeed.com/~~
 
 * **ArbingTool** Monitor arbitrage opportunities between exchanges. Also live coin prices and fee schedule avaliable.
 https://www.arbing.info/
+
+* **Significant Trades**
+https://aggr.trade/
+
+* **The Fastest Bitcoin Block Reader**
+https://sochain.com/
 
 ## Charts, Quotes and Trade Idea Sites
 
