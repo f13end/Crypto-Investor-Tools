@@ -359,6 +359,12 @@ http://data.bitcoinity.org/markets/volume/30d?c=e&t=b
 * View charts about the OP_RETURN script in the Bitcoin blockchain
 https://opreturn.org/
 
+* Alternative.me - provide important information about the crypto market at a single glance.
+https://alternative.me/crypto/
+
+* Volatility Index
+https://www.buybitcoinworldwide.com/volatility-index/
+
 ## Coin Events & Calendar Sites
 
 * **Coinmarketcal** The economic calendar for the cryptocurrency market. Evidence-based and community-driven.
@@ -387,6 +393,9 @@ https://www.coincalendar.cc/~~
 
 * **Cryptoslate Events** CryptoSlate publishes the largest cryptocurrency and blockchain event directory on the internet.
 https://cryptoslate.com/events/
+
+* **Coindar** Cryptocurrency calendar
+https://coindar.org/
 
 ## Live Price & Data Watcher Sites
 
@@ -422,6 +431,9 @@ https://coin.dance/
 
 * **Bitnodes** Bitnodes is currently being developed to estimate the size of the Bitcoin network by finding all the reachable nodes in the network.
 https://bitnodes.io/
+
+* **Map of Coins** Explore the visualized history of the cryptocurrencies
+https://mapofcoins.com/
 
 
 ## Charts, Quotes and Trade Idea Sites
@@ -550,6 +562,9 @@ https://www.icomarketdata.com/earlybird
 * **Visionary.life** Materials about blockchain, IOT, VR, AI and other technologies. Read our ICO reviews, interviews with blockchain experts and much more. 
 https://listing.visionary.life/
 
+* **Bad Bitcoin** The Badbitcoin Project Exposing bitcoin and cryptocurrency frauds since Feb 2014
+https://www.badbitcoin.org/
+
 ## Tools
 
 * **Tai** Open source and free composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine.
@@ -587,6 +602,19 @@ https://yogh.io/
 
 * **BTC Stats**
 https://btc.com/stats
+
+* **Coinalyze** Live prices and charts, price analysis, price alerts, statistics, news, trollbox and candlestick patterns detection. All the tools a crypto trader might need.
+
+https://coinalyze.net/
+
+* **Omenics** Your One-Stop Crypto Data Dashboard
+https://omenics.com/
+
+* **Coinloop**
+https://coinloop.io/indicators
+
+* **Mainnets Block Explorers
+https://chainz.cryptoid.info/
 
 ## Telegram Channel
 
