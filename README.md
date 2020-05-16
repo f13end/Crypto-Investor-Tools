@@ -740,8 +740,11 @@ https://www.youtube.com/watch?v=ZKwqNgG-Sv4&feature=youtu.be
 * Ulterior States [IamSatoshi Documentary]
 https://www.youtube.com/watch?time_continue=3&v=yQGQXy0RIIo
 
+* Learn About Bitcoin on YouTube
+https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF
 
-## Lessons
+
+## Courses
 
 * Bitcoin and Cryptocurrency Technologies
 https://coursera.org/learn/cryptocurrency
