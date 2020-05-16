@@ -655,6 +655,43 @@ https://teachbitcoin.io/
 * Blockchain courses at MIT
 https://dci.mit.edu/courses/
 
+## Awesomes about Cryptocurrencies
+
+* **Cryptoeconomics** A curated list of awesome resources for Cryptoeconomics research
+https://github.com/jpantunes/awesome-cryptoeconomics
+
+* **Bitcoin** A curated list of bitcoin services and tools for software developers
+https://github.com/igorbarinov/awesome-bitcoin
+
+* **Bitcoin Cash** A curated list of awesome things related to Bitcoin Cash
+https://github.com/dsmurrell/awesome-bitcoin-cash
+
+* **Bitcoin SV** A curated list of awesome things related to Bitcoin SV
+https://github.com/monkeylord/awesome-bitcoin-sv
+
+* **Blockchain** A curated list of awesome Blockchain, Bitcoin and Ethereum related resources
+https://github.com/coderplex-org/awesome-blockchain
+
+* **Decentralized Systems Papers** A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.)
+https://github.com/xasos/awesome-decentralized-papers
+
+* **Bitcoin Payment Processors** A list of awesome Bitcoin payment processors and stories from merchants using them
+https://github.com/alexk111/awesome-bitcoin-payment-processors
+
+* **CryptocurrencyAwesome** Cryptocurrency study material resources
+https://github.com/BlockchainDevs/CryptocurrencyAwesome
+
+* **Token Sale** navigate the token sale landscape and provide resources to help in the process of launching a successful ICO / token sale.
+https://github.com/holographicio/awesome-token-sale
+
+* **Cryptocurrency Security** Curated list about cryptocurrency security. (reverse, exploit, fuzz..)
+https://github.com/nongiach/awesome-cryptocurrency-security
+
+* **Privacy on Blockchains** Combination of papers and articles that cover various aspects of blockchain privacy.
+https://github.com/Mikerah/awesome-privacy-on-blockchains
+
+* **Lightning Network** A curated list of lightning network resources and tools for software developers
+https://github.com/tmlee/awesome-lightning-network
 
 # Tutorials
 
