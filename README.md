@@ -515,6 +515,21 @@ https://t.me/BitcoinCore
 ## Tradingview Authors with Ranking
 https://www.tradingview.com/people/all/
 
+## Youtube Channels
+
+* **The Cryptoverse**
+https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw
+
+* **World Crypto Network**
+https://www.youtube.com/user/WorldCryptoNetwork
+
+* **aantonop**
+https://www.youtube.com/user/aantonop/featured
+
+* **Bitcoin and Cryptocurrency Technologies Online Course**
+https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos
+
+
 # Tutorials
 
 * [Pine Scripting](https://www.youtube.com/playlist?list=PLUseeqY5qQGXLsmK6FRH6yjkcg54a-d1U)
