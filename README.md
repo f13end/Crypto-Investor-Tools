@@ -198,6 +198,57 @@ https://cryptonewsreview.com
 * **Eth News** ETHNews.com is the authority in news, prices, analysis and information on Ethereum and its decentralized blockchain platform and cryptocurrency.
 https://www.ethnews.com/
 
+* **Crypto News**
+https://cryptonews.com/
+
+* **News Bitcoin**
+https://news.bitcoin.com/
+
+* **Bitcoinist**
+https://bitcoinist.com/
+
+* **News BTC**
+https://www.newsbtc.com/
+
+* **Cryptoslate**
+https://cryptoslate.com/
+
+* **AMB Crypto**
+https://eng.ambcrypto.com/
+
+* **BTC Manager**
+https://btcmanager.com/
+
+* **Eth News**
+https://cryptobriefing.com/
+
+* **Bitcoin Exchange Guide**
+https://bitcoinexchangeguide.com/
+
+* **The Merkle**
+https://themerkle.com/
+
+* **Altcoinbuzz**
+https://www.altcoinbuzz.io/
+
+* **Crypto Newsz**
+https://www.cryptonewsz.com/
+
+* **Coin Monks**
+https://medium.com/coinmonks
+
+* **Crypto Gon**
+https://www.cryptogon.com/
+
+* **Box Mining**
+https://boxmining.com/
+
+* **Coin Funda**
+https://coinfunda.com/
+
+* **Decrypt**
+https://decrypt.co/
+
 ## Valuation and Ranking Sites
 
 * **Coingecko** CoinGecko is a coin market ranking chart app that ranks digital currencies by developer activity, community, and liquidity. Check out the latest ranking for major cryptocurrencies such as Bitcoin, Litecoin, Peercoin, and more.
