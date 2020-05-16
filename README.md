@@ -23,8 +23,8 @@ https://cryptocontrol.io/en/social
 * **Coinspectator** Monitor the latest cryptocurrency news with our real-time aggregator bringing you the top crypto news today in one simple feed 24/7.
 https://coinspectator.com/
 
-* **CryptoFlash** CryptoFlash is a news aggregator platform tracking the latest news & rumors about more than 200 cryptocurrencies. Join us and keep up to date with what's going on in the cryptocurrency ecosystem!
-https://cryptoflash.io/
+* **CryptoFlash** ~~CryptoFlash is a news aggregator platform tracking the latest news & rumors about more than 200 cryptocurrencies. Join us and keep up to date with what's going on in the cryptocurrency ecosystem!
+https://cryptoflash.io/~~
 
 * **Faws** Personalized cryptocurrencies news aggregator for investor looking to follow impact of news on market, be notified in realtime on any news, analysis or press releases matching with your watchlist.
 https://faws.com/
@@ -32,11 +32,11 @@ https://faws.com/
 * **Coinlib** Live and historic cryptocurrency prices, news, charts and coin rankings. Portfolio tracking, price alerts and other advanced tools.
 https://coinlib.io/
 
-* **CryptoCoin** Digital Cryptocurrency Software Database and News Portal.
-http://cryptocoin.cc/
+* **CryptoCoin** ~~Digital Cryptocurrency Software Database and News Portal.
+http://cryptocoin.cc/~~
 
-* **CoinLive** Find the latest cryptocurrency news collected from around the net. Simple in Website 
-https://www.coinlive.io/pro
+* **CoinLive** ~~Find the latest cryptocurrency news collected from around the net. Simple in Website 
+https://www.coinlive.io/pro~~
 
 * **CryptoControl** News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
 https://cryptocontrol.io/
@@ -62,31 +62,36 @@ https://coins.live/news/
 * **Bitmakler** BitMakler will keep You informed on the latest events in the cryptocurrency world, Blockchain, ICO, Financial Technology(Fintech), solve issues mining and trading cryptocurrencies.
 https://bitmakler.net/
 
-* **Coinhooked** Top News from the best cryptocurrency news sources, daily news recap, infographics and Cryptocurrency News Today.
-https://coinhooked.com/
+* **Coinhooked** ~~Top News from the best cryptocurrency news sources, daily news recap, infographics and Cryptocurrency News Today.
+https://coinhooked.com/~~
 
 * **Bitcoinagile** Real-Time Market Data and News Discovery Platform.
 http://bitcoinagile.com/default
+
 * **Alltop**
 https://alltop.com/cryptocurrency
+
 * **Today on Chain**
 https://www.todayonchain.com/
-* **NewsNow**
-https://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies
+
 * **Coins.live**
 https://coins.live/news/
+
 * **Cryptonews AU**
 https://cryptonews.com.au/
+
 * **Coinspectator**
 https://coinspectator.com/
+
 * **Investing Crypto News**
 https://www.investing.com/news/cryptocurrency-news
+
 * **Crypto Control**
 https://cryptocontrol.io/en/
-* **FAWS**
-https://faws.com/
+
 * **Coinbeagle**
 https://www.coinbeagle.com/news/
+
 * **Geek Wrapped**
 https://www.geekwrapped.com/
 
@@ -198,32 +203,11 @@ https://cryptonewsreview.com
 * **Eth News** ETHNews.com is the authority in news, prices, analysis and information on Ethereum and its decentralized blockchain platform and cryptocurrency.
 https://www.ethnews.com/
 
-* **Crypto News**
-https://cryptonews.com/
-
-* **News Bitcoin**
-https://news.bitcoin.com/
-
-* **Bitcoinist**
-https://bitcoinist.com/
-
-* **News BTC**
-https://www.newsbtc.com/
-
-* **Cryptoslate**
-https://cryptoslate.com/
-
 * **AMB Crypto**
 https://eng.ambcrypto.com/
 
 * **BTC Manager**
 https://btcmanager.com/
-
-* **Eth News**
-https://cryptobriefing.com/
-
-* **Bitcoin Exchange Guide**
-https://bitcoinexchangeguide.com/
 
 * **The Merkle**
 https://themerkle.com/
@@ -296,6 +280,24 @@ https://www.narmb.com/?locale=en
 * **ChainShuttle** chainshuttle is a daily report on trending cryptocurrency, based on social media activity, price, volume and a bit of magic.
 https://chainshuttle.com/
 
+* **Onchainfx** 
+https://onchainfx.com/
+
+* **Coincodex**
+https://coincodex.com/
+
+* **Coincheckup**
+https://coincheckup.com/
+
+* **Bit Info Charts**
+https://bitinfocharts.com/index_v.html
+
+* **Coinpaprika**
+https://coinpaprika.com/
+
+* **Coin360**
+https://coin360.com/
+
 ## Cryptocurrency Data & Info Sites
 
 * Bitcoinity
@@ -338,11 +340,11 @@ https://cryptoslate.com/events/
 * **Cryptowatch** Live price charts and market data for Bitcoin, Ethereum, and more.
 https://cryptowat.ch/
 
-* **Bitcoin Wisdom** Live Bitcoin/Litecoin charts with EMA, MACD and other indicators.
-https://bitcoinwisdom.com/
+* **Bitcoin Wisdom** ~~Live Bitcoin/Litecoin charts with EMA, MACD and other indicators.
+https://bitcoinwisdom.com/~~
 
-* **BTC.Amfeed** Watch live large Bitcoin market buys & sells from all major exchanges in real-time.
-http://btc.amfeed.com/
+* **BTC.Amfeed** ~~Watch live large Bitcoin market buys & sells from all major exchanges in real-time.
+http://btc.amfeed.com/~~
 
 * **ArbingTool** Monitor arbitrage opportunities between exchanges. Also live coin prices and fee schedule avaliable.
 https://www.arbing.info/
@@ -381,17 +383,48 @@ https://mastersofcrypto.com/forum/
 * **StackExchange** Stack Exchange Q&A communities are different. Here's how: Speech bubbles. Expert communities. 
 https://bitcoin.stackexchange.com/
 
-* Blockchain Forums
+* **Blockchain Forums**
 https://blockchainforums.info
 
-* Cryptocurrency Talk
+* **Cryptocurrency Talk**
 https://cryptocurrencytalk.com/
 
-* Topix
+* **Topix**
 http://www.topix.com/forum/economics/bitcoin
 
-* Altcointalks
+* **Altcointalks**
 http://www.altcoinstalks.com/
+
+* **Bitcoin Forum**
+https://forum.bitcoin.com/
+
+* **Bitcoin Garden**
+https://bitcoingarden.org/forum/
+
+* **Cryptoheresy**
+https://cryptoheresy.com/
+
+* **Cryptocurrency Talk**
+https://cryptocurrencytalk.com/
+
+* **Ethereum StackExchange**
+https://ethereum.stackexchange.com/
+
+* **Tezos StackExchange**
+https://tezos.stackexchange.com/
+
+* **Monero StackExchange**
+https://monero.stackexchange.com/
+
+* **Stackoverflow Topics**
+https://stackoverflow.com/questions/tagged/blockchain
+https://stackoverflow.com/questions/tagged/bitcoin
+https://stackoverflow.com/questions/tagged/hyperledger
+
+* **Bitcoin Reddit**
+https://www.reddit.com/r/Bitcoin/
+
+
 
 ## ICO / Projects Review Sites
 
@@ -413,8 +446,8 @@ https://cryptobriefing.com/ico-reviews/
 * **ICO Hot List** ICO Hot list is the only unbiased and manually curated list of active, upcoming, and traded Token sales. Your top choice for quality ICO's.
 https://www.icohotlist.com/
 
-* **CryptoRated** In-depth analysis, ratings and reviews for any initial coin offering (ICO). Get the latest information about every ICO, cryptocurrency and token crowdsale.
-https://cryptorated.com/
+* **CryptoRated** ~~In-depth analysis, ratings and reviews for any initial coin offering (ICO). Get the latest information about every ICO, cryptocurrency and token crowdsale.
+https://cryptorated.com/~~
 
 * **ICOReview** The industry standard for passive income coin ICO reviews, ratings and intelligence reports. we provide in-depth analysis of all coin ICOs database list.
 https://icoreview.site/
@@ -425,8 +458,8 @@ https://tokentops.com/
 * ICOCrunch
 https://icocrunch.io/
 
-* **ICODOG** Looking for a specific ICO review? at ICODOG you'll learn it first about all upcoming top ICOs with our in-depth research and analysis.
-https://icodog.io/
+* **ICODOG** ~~Looking for a specific ICO review? at ICODOG you'll learn it first about all upcoming top ICOs with our in-depth research and analysis.
+https://icodog.io/~~
 
 * **TopICOList** Top ICO List is curated by ICO analysts to bring you the best new ICOs that are active, upcoming or in discounted pre ICO. Best choice for quality ICOs.
 https://topicolist.com/
@@ -450,6 +483,9 @@ https://t.me/Whalesniper
 
 * Smart Wall Monitor
 https://t.me/WallMonitor
+
+## Tradingview Authors with Ranking
+https://www.tradingview.com/people/all/
 
 # Tutorials
 
