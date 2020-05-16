@@ -22,3 +22,4 @@ This resource was made by the developers and investors alike! We appreciate and 
 ## Contributors
 
 - @ocengiz0
+- @rupurt
