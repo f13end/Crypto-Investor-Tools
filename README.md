@@ -119,6 +119,19 @@ https://www.reddit.com/r/CryptoCurrency/
 * /r/CryptoMarkets/
 https://www.reddit.com/r/CryptoMarkets/
 
+* /r/CryptoCurrencies/
+https://www.reddit.com/r/CryptoCurrencies/
+
+* /r/Crypto_Currency_News/
+https://www.reddit.com/r/Crypto_Currency_News/
+ 
+* /r/ICOAnalysis/ 
+https://www.reddit.com/r/ICOAnalysis/
+
+* /r/BitcoinBeginners/
+https://www.reddit.com/r/BitcoinBeginners/
+
+
 ### --- 4Chan For Aggregated News and Off-topic
 
 * /biz
