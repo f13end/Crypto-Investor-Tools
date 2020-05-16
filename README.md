@@ -283,20 +283,29 @@ https://chainshuttle.com/
 * **Onchainfx** 
 https://onchainfx.com/
 
-* **Coincodex**
+* **Coincodex** Complete cryptocurrency market coverage with real-time coin prices, charts and crypto market cap featuring over 7247 coins on more than 291 exchanges.
 https://coincodex.com/
 
-* **Coincheckup**
+* **Coincheckup** Coincheckup is a cryptocurrency analysis and research platform designed to offer you transparent information on each cryptocurrency and help your investment
 https://coincheckup.com/
 
 * **Bit Info Charts**
 https://bitinfocharts.com/index_v.html
 
-* **Coinpaprika**
+* **Coinpaprika** Coinpaprika is a Cryptocurrency Market Research Platform. We deliver data from over 25 000 Cryptocurrency Markets. Check the latest Cryptocurrency Prices
 https://coinpaprika.com/
 
-* **Coin360**
+* **Coin360** Watch the heatmap of cryptocurrency prices, market capitalizations, and volumes on COIN360. Add our widget to track the price of BTC, ETH, XRP, LTC, BCH, ...
 https://coin360.com/
+
+* **Lunarcrush** Get real-time cryptocurrency prices and social data for Bitcoin, Ethereum, and 2000 other altcoin and blockchain projects.
+https://lunarcrush.com/
+
+* **Santiment** Analyze crypto markets and find data-driven opportunities to optimize your investing. Santiment is a behavior analytics platform
+https://app.santiment.net/
+
+* **Glassnode** On-Chain Data and Intelligence Platform
+https://glassnode.com/
 
 ## Cryptocurrency Data & Info Sites
 
@@ -305,6 +314,21 @@ http://data.bitcoinity.org
 
 * Crypto Data Download
 https://www.cryptodatadownload.com/
+
+* Data Worlds 
+https://data.world/datasets/cryptocurrency
+
+* Knoema
+https://knoema.com/insights/Cryptocurrency
+
+* Kaggle Datasets
+https://www.kaggle.com/datasets?search=crypto
+
+* Cryptocurrency Data in Google Sheets 
+https://spreadstreet.io/
+
+* Realtime Bitcoin Transaction
+https://bitcointicker.co/
 
 ## Coin Events & Calendar Sites
 
