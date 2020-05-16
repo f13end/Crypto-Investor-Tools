@@ -250,6 +250,9 @@ https://decrypt.co/
 * **The Block Crypto** The Block is your reliable and newsworthy source for all things pertaining to blockchain and crypto.
 https://www.theblockcrypto.com/
 
+* **BTC Wires** BTC Wires is an online digital media platform which provides information for the crypto and blockchain technology.
+https://www.btcwires.com/
+
 ## Valuation and Ranking Sites
 
 * **Coingecko** CoinGecko is a coin market ranking chart app that ranks digital currencies by developer activity, community, and liquidity. Check out the latest ranking for major cryptocurrencies such as Bitcoin, Litecoin, Peercoin, and more.
@@ -347,8 +350,14 @@ https://www.kaggle.com/datasets?search=crypto
 * Cryptocurrency Data in Google Sheets 
 https://spreadstreet.io/
 
-* Realtime Bitcoin Transaction
-https://bitcointicker.co/
+* Bitcoin vs The World's Money Supplies
+https://bitcoinmoneysupply.xyz/
+
+* Markets & Blockchain Data
+http://data.bitcoinity.org/markets/volume/30d?c=e&t=b
+
+* View charts about the OP_RETURN script in the Bitcoin blockchain
+https://opreturn.org/
 
 ## Coin Events & Calendar Sites
 
@@ -399,6 +408,22 @@ https://aggr.trade/
 * **The Fastest Bitcoin Block Reader**
 https://sochain.com/
 
+* **Realtime Bitcoin Transaction**
+https://bitcointicker.co/
+
+* **Statoshinfo - Realtime Bitcoin Node Stats**
+https://statoshi.info/
+
+* **Cryptrader**
+https://cryptrader.com/
+
+* **Coin Dance**
+https://coin.dance/
+
+* **Bitnodes** Bitnodes is currently being developed to estimate the size of the Bitcoin network by finding all the reachable nodes in the network.
+https://bitnodes.io/
+
+
 ## Charts, Quotes and Trade Idea Sites
 
 * **Tradingview** Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
@@ -418,6 +443,12 @@ https://finviz.com/
 
 * **Coinigy** Looking for professional Bitcoin and cryptocurrency trading tools? Coinigy lets you trade on every Bitcoin exchange through one account
 https://www.coinigy.com/
+
+* **Bitcoin's Never Look Back Price**
+http://bitcoin.craighammell.com/
+
+* **Woobull Charts**
+http://charts.woobull.com/
 
 ## Crypto Forums
 
@@ -475,7 +506,6 @@ https://stackoverflow.com/questions/tagged/hyperledger
 https://www.reddit.com/r/Bitcoin/
 
 
-
 ## ICO / Projects Review Sites
 
 * **TokenMarket** Research, invest and trade tokens. TokenMarket is a utility and security token trading platform and database. 
@@ -525,6 +555,38 @@ https://listing.visionary.life/
 * **Tai** Open source and free composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine.
 https://github.com/fremantle-capital/tai
 
+* **PoW 51% Attack Cost** This is a collection of coins and the theoretical cost of a 51% attack on each network.
+https://www.crypto51.app/
+
+* **BitMEX fork monitor**
+https://forkmonitor.info/nodes/btc
+
+* **Fork Usage Comparison**
+https://forks.network/d/DY0HTUfiz/home?orgId=1
+
+* **Mining Stats**
+https://fork.lol/
+
+* **Johoe's Bitcoin Mempool Statistics**
+https://jochen-hoenicke.de/queue/#2,24h
+
+* **Find coins on Bitcoin forks**
+http://www.findmycoins.ninja/
+
+* **Bitcoin Forks and Airdrops**
+https://forkdrop.io/
+
+* **RSIHunter**
+https://rsihunter.com/
+
+* **Bitcoin Explorer**
+https://explorer.btc21.org/
+
+* **Bitcoin Reader**
+https://yogh.io/
+
+* **BTC Stats**
+https://btc.com/stats
 
 ## Telegram Channel
 
