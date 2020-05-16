@@ -358,23 +358,23 @@ https://coinmarketcal.com/
 * **Coins Calendar** CoinsCalendar is a cryptocurrency events calendar. You will be first to know about all upcoming hard fork, exchange listings, releases, updates, conferences etc.
 https://www.coinscalendar.com/
 
-* **cryptocalendar.pro** Cryptocurrency calendar: coins and tokens events, hard forks, exchange listings etc, ICOs. Don't miss important events!
-https://cryptocalendar.pro/
+* **cryptocalendar.pro** ~~Cryptocurrency calendar: coins and tokens events, hard forks, exchange listings etc, ICOs. Don't miss important events!
+https://cryptocalendar.pro/~~
 
-* **Coinschedule** The original list of ICOs (Initial Coin Offering) and Token Sales, Crypto Conferences and News for Bitcoin, Ethereum, Waves, Ripple and other altcoins.
-https://www.coinschedule.com/
+* **Coinschedule** ~~The original list of ICOs (Initial Coin Offering) and Token Sales, Crypto Conferences and News for Bitcoin, Ethereum, Waves, Ripple and other altcoins.
+https://www.coinschedule.com/~~
 
 * **Coindar** Cryptocurrency calendar will notify you about releases, hard forks, tokens swaps, meetups, conferences, listings on the exchanges, etc.
 https://coindar.org/
 
-* **Coincalendar.info** Hot Events Hot Upcoming Cryptocurrency Events
-http://www.coincalendar.info/
+* **Coincalendar.info** ~~Hot Events Hot Upcoming Cryptocurrency Events
+http://www.coincalendar.info/~~
 
 * **Coinmarketcap Events** While Coinmarketcap's events page is rudimentary, it's perfect for keeping track of upcoming blockchain conferences of note. 
 https://coinmarketcap.com/events/
 
-* **Coincalendar.cc** A crypto calendar with events, roadmap ICO calendar of all your favourite cryptocurrencies. The most complete coin calendar.
-https://www.coincalendar.cc/
+* **Coincalendar.cc** ~~A crypto calendar with events, roadmap ICO calendar of all your favourite cryptocurrencies. The most complete coin calendar.
+https://www.coincalendar.cc/~~
 
 * **Cryptoslate Events** CryptoSlate publishes the largest cryptocurrency and blockchain event directory on the internet.
 https://cryptoslate.com/events/
@@ -563,12 +563,16 @@ https://www.youtube.com/user/aantonop/featured
 
 * Banking On Bitcoin
 https://vimeo.com/226777744
+
 * Bitcoin: Beyond The Bubble - Full Documentary
 https://www.youtube.com/watch?v=LszOt51OjXU
+
 * Magic Money: The Bitcoin Revolution | Full Documentary
 https://www.youtube.com/watch?v=PVo5wCSnmSs
+
 * The Bitcoin Gospel | VPRO documentary (2015)
 https://www.youtube.com/watch?v=8zKuoqZLyKg
+
 * Bitcoin Documentary - The End of Money as We Know it
 https://www.youtube.com/watch?v=tUqq3Ug05h0
 
