@@ -68,32 +68,29 @@ https://coinhooked.com/~~
 * **Bitcoinagile** Real-Time Market Data and News Discovery Platform.
 http://bitcoinagile.com/default
 
-* **Alltop**
+* **Alltop** AllTop aggregates all of the top news and information in real time. Find a topic and learn what's happening from trusted sources.
 https://alltop.com/cryptocurrency
 
-* **Today on Chain**
+* **Today on Chain** TodayOnChain.com features latest news and updates on Blockchain and cryptocurrencies (Bitcoin, Ethereum, Litecoin, Ripple and more).
 https://www.todayonchain.com/
 
-* **Coins.live**
+* **Coins.live** 
 https://coins.live/news/
 
-* **Cryptonews AU**
+* **Cryptonews AU** Crypto News Australia provides you with the most relevant Australian Bitcoin News, Crypto News and Blockchain News.
 https://cryptonews.com.au/
 
-* **Coinspectator**
+* **Coinspectator** Monitor the latest cryptocurrency news with our real-time aggregator bringing you the top crypto news today in one simple feed 24/7.
 https://coinspectator.com/
 
-* **Investing Crypto News**
+* **Investing Crypto News** The latest cryptocurrency news - stay up-to-date with breaking news on major cryptocurrencies, including Bitcoin, Ethereum, Litecoin, Ripple and ICOs.
 https://www.investing.com/news/cryptocurrency-news
 
-* **Crypto Control**
+* **Crypto Control** Read all cryptocurrency-related news today from more than 200 sources including Cointelegrah, CCN, NewsBTC, etc. The ultimate crypto news aggregator
 https://cryptocontrol.io/en/
 
-* **Coinbeagle**
+* **Coinbeagle** Coinbeagle provides the latest cryptocurrency, coin and token prices. Get cryptocurrency market prices, news, social media stats and more.
 https://www.coinbeagle.com/news/
-
-* **Geek Wrapped**
-https://www.geekwrapped.com/
 
 
 ### --- Reddit For Aggregated News and Off-topic
