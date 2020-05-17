@@ -630,7 +630,6 @@ https://yogh.io/
 https://btc.com/stats
 
 * **Coinalyze** Live prices and charts, price analysis, price alerts, statistics, news, trollbox and candlestick patterns detection. All the tools a crypto trader might need.
-
 https://coinalyze.net/
 
 * **Omenics** Your One-Stop Crypto Data Dashboard
@@ -639,7 +638,7 @@ https://omenics.com/
 * **Coinloop**
 https://coinloop.io/indicators
 
-* **Mainnets Block Explorers
+* **Mainnets Block Explorers**
 https://chainz.cryptoid.info/
 
 ## Telegram Channel
