@@ -641,6 +641,11 @@ https://coinloop.io/indicators
 * **Mainnets Block Explorers**
 https://chainz.cryptoid.info/
 
+
+* **CoinGoLive** Tools for cryptocurrency Investors
+https://github.com/CoinGoLive/coingolive
+
+
 ## Telegram Channel
 
 * Coin Sniper
@@ -836,6 +841,18 @@ https://github.com/Mikerah/awesome-privacy-on-blockchains
 
 * **Lightning Network** A curated list of lightning network resources and tools for software developers
 https://github.com/tmlee/awesome-lightning-network
+
+
+# Awesomes
+
+* **Awesome Investing** 
+https://github.com/mr-karan/awesome-investing
+
+* **Awesome Investment**
+https://github.com/thomasmktong/awesome-investment
+
+* **Awesome investing tools** 
+https://github.com/chromale/awesome-investing-tools
 
 # Tutorials
 
