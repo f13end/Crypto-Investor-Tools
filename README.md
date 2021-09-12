@@ -456,6 +456,11 @@ https://coinsflare.com/
 * **Coinalyze** Live prices and charts, price analysis, price alerts, statistics, news, trollbox and candlestick patterns detection. All the tools a crypto trader might need.
 https://coinalyze.net/
 
+* **Abnomal Crypto Volume Alert** The last 24hr volume is over 5 times the standard deviation of its historic 24 hr volume (past 90 days)
+https://dk4jo3.github.io/abnormal-crypto-volume-alert/
+
+* **Unusual Volume Scanner** Get alerted when a stock's volume exceeds 10 standard deviations from the mean within the last 3 days.
+https://unusualvolume.info/
 
 ## Charts, Quotes and Trade Idea Sites
 
@@ -878,4 +883,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
