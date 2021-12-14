@@ -92,6 +92,9 @@ https://cryptocontrol.io/en/
 * **Coinbeagle** Coinbeagle provides the latest cryptocurrency, coin and token prices. Get cryptocurrency market prices, news, social media stats and more.
 https://www.coinbeagle.com/news/
 
+* **Messari** Crypto data aggregator with loads of helpful tools
+https://messari.io/
+
 
 ### --- Reddit For Aggregated News and Off-topic
 
@@ -345,6 +348,9 @@ https://www.dapp.com/
 * **Appco** Blockstack Apps
 https://app.co/
 
+* **CryptoMiso** Github commit history 
+https://www.cryptomiso.com/
+
 ## Cryptocurrency Data & Info Sites
 
 * **Bitcoinity**
@@ -364,6 +370,9 @@ https://www.kaggle.com/datasets?search=crypto
 
 * **Cryptocurrency Data in Google Sheets**
 https://spreadstreet.io/
+
+* **Market Cycle Charts**
+https://www.lookintobitcoin.com/charts/
 
 * **Bitcoin vs The World's Money Supplies**
 https://bitcoinmoneysupply.xyz/
@@ -645,6 +654,9 @@ https://coinloop.io/indicators
 
 * **Mainnets Block Explorers**
 https://chainz.cryptoid.info/
+
+* **CM NETWORK DATA PRO** Data feed of insightful, aggregate network data metrics for all of the top cryptoassets.
+https://coinmetrics.io/network-data-pro/
 
 
 * **CoinGoLive** Tools for cryptocurrency Investors
