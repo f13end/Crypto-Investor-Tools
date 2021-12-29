@@ -610,6 +610,9 @@ https://icodrops.com/
 
 ## Tools
 
+* **Cryptofolio Google Sheet Template** Free portfolio manager to track your crypto assets with real time market data.
+https://docs.google.com/spreadsheets/d/12O0td_IZSjrZTCnVupI2gyR-eYX7yuB6cdSplKHF8nU
+
 * **Tai** Open source and free composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine.
 https://github.com/fremantle-capital/tai
 
