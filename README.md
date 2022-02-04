@@ -622,6 +622,18 @@ https://forkmonitor.info/nodes/btc
 * **Fork Usage Comparison**
 https://forks.network/d/DY0HTUfiz/home?orgId=1
 
+* **Reddit / Subreddit Stats**
+https://frontpagemetrics.com
+
+* **Reddit / Subreddit Stats**
+https://subredditstats.com
+
+* **Reddit / Subreddit Stats**
+https://redditmetis.com
+
+* **4chan Stats**
+https://4stats.io
+
 * **Mining Stats**
 https://fork.lol/
 
