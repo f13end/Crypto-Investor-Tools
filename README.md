@@ -17,8 +17,8 @@ Your [contributions](Contributing.md) are always welcome !
 * **Cryptopanic** News aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 https://cryptopanic.com/
 
-* **CoinBuzz.stream** News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
-https://cryptocontrol.io/en/social
+* **CoinBuzz.stream** ~~News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
+https://cryptocontrol.io/en/social~~
 
 * **Coinspectator** Monitor the latest cryptocurrency news with our real-time aggregator bringing you the top crypto news today in one simple feed 24/7.
 https://coinspectator.com/
@@ -26,8 +26,8 @@ https://coinspectator.com/
 * **CryptoFlash** ~~CryptoFlash is a news aggregator platform tracking the latest news & rumors about more than 200 cryptocurrencies. Join us and keep up to date with what's going on in the cryptocurrency ecosystem!
 https://cryptoflash.io/~~
 
-* **Faws** Personalized cryptocurrencies news aggregator for investor looking to follow impact of news on market, be notified in realtime on any news, analysis or press releases matching with your watchlist.
-https://faws.com/
+* **Faws** ~~Personalized cryptocurrencies news aggregator for investor looking to follow impact of news on market, be notified in realtime on any news, analysis or press releases matching with your watchlist.
+https://faws.com/~~
 
 * **Coinlib** Live and historic cryptocurrency prices, news, charts and coin rankings. Portfolio tracking, price alerts and other advanced tools.
 https://coinlib.io/
@@ -38,14 +38,14 @@ http://cryptocoin.cc/~~
 * **CoinLive** ~~Find the latest cryptocurrency news collected from around the net. Simple in Website 
 https://www.coinlive.io/pro~~
 
-* **CryptoControl** News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
-https://cryptocontrol.io/
+* **CryptoControl** ~~News aggregator that tracks cryptocurrencies, ICOs, Blockchain related news. View articles from over 100+ different sources and stay up to date.
+https://cryptocontrol.io/~~
 
-* **CoinNA** Cryptocurrency news aggregator for Bitcoin, Ethereum, altcoins, cryptocurrencies, exchanges and all other things blockchain related.
-https://www.coinna.com/
+* **CoinNA** ~~Cryptocurrency news aggregator for Bitcoin, Ethereum, altcoins, cryptocurrencies, exchanges and all other things blockchain related.
+https://www.coinna.com/~~
 
-* **CryptoCoinOwl** Latest cryptocurrency news. Live prices and crypto charts. Useful tools that help traders and investors make educated decisions. Dashboard for bitcoin, ethereum, ripple and other crypto coins.
-https://ccowl.com/
+* **CryptoCoinOwl** ~~Latest cryptocurrency news. Live prices and crypto charts. Useful tools that help traders and investors make educated decisions. Dashboard for bitcoin, ethereum, ripple and other crypto coins.
+https://ccowl.com/~~
 
 * **News Now** Get news as it breaks from 1000s of local, national and international sources - a one stop shop for news, sport, entertainment and business news - by NewsNow.
 http://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies
