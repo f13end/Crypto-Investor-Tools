@@ -300,6 +300,9 @@ https://altcoins.racing/~~
 * **MyToken** China's most popular cryptocurrency platform.
 https://www.mytoken.io/
 
+* **Fei Xiao Hao** is one of the earliest digital currency market analysis platforms in the blockchain industry in mainland China. It is committed to creating a neutral, authoritative and fair blockchain industry ranking.
+https://www.feixiaohao.co/
+
 * **Narmb** ~~Cryptocurrency market cap rankings, charts, and more.
 https://www.narmb.com/?locale=en~~
 
