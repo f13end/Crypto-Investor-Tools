@@ -607,6 +607,8 @@ https://www.tokendata.io/
 https://icodrops.com/
 
 
+<a rel="dofollow" href="http://landindex.io">Metaverse analytics</a>
+
 
 ## Tools
 
@@ -670,7 +672,8 @@ https://chainz.cryptoid.info/
 * **CM NETWORK DATA PRO** Data feed of insightful, aggregate network data metrics for all of the top cryptoassets.
 https://coinmetrics.io/network-data-pro/
 
-* **Landindex.io** Landindex is a [Metaverse data analytics](https://landindex.io) tool that helps businesses and investors to understand the value of the land at Metaverse. It provides a comprehensive overview of land price, ownership, and investment across the different Metaverses including Decentraland, The Sandbox, NFT World, Otherside, and many more leading virtual worlds. The easiest way to compare metaverse analytics
+<a rel="dofollow" href="http://landindex.io">landindex.io</a>
+* Landindex is a [Metaverse data analytics](https://landindex.io) tool that helps businesses and investors to understand the value of the land at Metaverse. It provides a comprehensive overview of land price, ownership, and investment across the different Metaverses including Decentraland, The Sandbox, NFT World, Otherside, and many more leading virtual worlds. The easiest way to compare metaverse analytics
 https://landindex.io
 
 
