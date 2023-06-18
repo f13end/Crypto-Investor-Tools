@@ -11,6 +11,10 @@
 Your [contributions](Contributing.md) are always welcome !
 
 
+* **Live NFT & Notable and Whales Tracker**
+https://live.landindex.io
+
+
 # Cryptocurrency Investor Tools
 ## News Aggregators
 
